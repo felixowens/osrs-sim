@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 14,
+    "attack_magic": -30,
+    "attack_ranged": -15,
+    "attack_slash": 2,
+    "attack_stab": 2,
+    "defence_crush": 29,
+    "defence_magic": -12,
+    "defence_ranged": 33,
+    "defence_slash": 31,
+    "defence_stab": 35,
+    "magic_damage": 0,
+    "melee_strength": 4,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 20
+    },
+    "slot": "body"
+  },
+  "id": 27845,
+  "members": true,
+  "name": "corrupted statius's platebody (bh)",
+  "tradeable": false,
+  "weight": 9.979
+}

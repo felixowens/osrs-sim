@@ -1,0 +1,37 @@
+{
+  "_gearscape_combat_style": "magic",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 5,
+    "attack_ranged": 0,
+    "attack_slash": 0,
+    "attack_stab": 5,
+    "defence_crush": 0,
+    "defence_magic": 5,
+    "defence_ranged": 0,
+    "defence_slash": 0,
+    "defence_stab": 5,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 5,
+    "ranged_strength": 0,
+    "requirements": {
+      "attack": 50,
+      "defence": 41,
+      "magic": 66,
+      "prayer": 42,
+      "ranged": 60,
+      "strength": 50
+    },
+    "slot": "cape"
+  },
+  "id": 13123,
+  "members": true,
+  "name": "ardougne cloak 3",
+  "tradeable": false,
+  "weight": 0.453
+}

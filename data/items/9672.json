@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "prayer",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": -6,
+    "attack_ranged": -3,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 16,
+    "defence_magic": -1,
+    "defence_ranged": 19,
+    "defence_slash": 21,
+    "defence_stab": 19,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 4,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 30,
+      "prayer": 20
+    },
+    "slot": "head"
+  },
+  "id": 9672,
+  "members": true,
+  "name": "proselyte sallet",
+  "tradeable": true,
+  "weight": 2.267
+}

@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "magic",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 8,
+    "attack_ranged": -3,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 16,
+    "defence_magic": 6,
+    "defence_ranged": 0,
+    "defence_slash": 14,
+    "defence_stab": 15,
+    "magic_damage": 2,
+    "melee_strength": 0,
+    "prayer": 1,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 75,
+      "magic": 78
+    },
+    "slot": "head"
+  },
+  "id": 26241,
+  "members": true,
+  "name": "virtus mask",
+  "tradeable": true,
+  "weight": 1.206
+}

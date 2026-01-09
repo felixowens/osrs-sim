@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "magic",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 4,
+    "attack_ranged": -1,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 1,
+    "defence_magic": 2,
+    "defence_ranged": 0,
+    "defence_slash": 1,
+    "defence_stab": 2,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 40,
+      "magic": 65
+    },
+    "slot": "hands"
+  },
+  "id": 9099,
+  "members": true,
+  "name": "lunar gloves",
+  "tradeable": false,
+  "weight": 0.907
+}

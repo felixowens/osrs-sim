@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "ranged",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": -10,
+    "attack_ranged": 7,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 4,
+    "defence_magic": 4,
+    "defence_ranged": 4,
+    "defence_slash": 4,
+    "defence_stab": 4,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 1,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 40,
+      "ranged": 70
+    },
+    "slot": "feet"
+  },
+  "id": 19930,
+  "members": true,
+  "name": "armadyl d'hide boots",
+  "tradeable": true,
+  "weight": 1.4
+}

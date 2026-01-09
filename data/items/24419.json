@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 8,
+    "attack_magic": -5,
+    "attack_ranged": -5,
+    "attack_slash": -2,
+    "attack_stab": -2,
+    "defence_crush": 21,
+    "defence_magic": 0,
+    "defence_ranged": 12,
+    "defence_slash": 10,
+    "defence_stab": 19,
+    "magic_damage": 0,
+    "melee_strength": 4,
+    "prayer": 1,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 30,
+      "strength": 70
+    },
+    "slot": "head"
+  },
+  "id": 24419,
+  "members": true,
+  "name": "inquisitor's great helm",
+  "tradeable": true,
+  "weight": 2.721
+}

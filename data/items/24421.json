@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 12,
+    "attack_magic": -9,
+    "attack_ranged": -5,
+    "attack_slash": -3,
+    "attack_stab": -3,
+    "defence_crush": 49,
+    "defence_magic": 0,
+    "defence_ranged": 22,
+    "defence_slash": 30,
+    "defence_stab": 42,
+    "magic_damage": 0,
+    "melee_strength": 2,
+    "prayer": 2,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 30,
+      "strength": 70
+    },
+    "slot": "legs"
+  },
+  "id": 24421,
+  "members": true,
+  "name": "inquisitor's plateskirt",
+  "tradeable": true,
+  "weight": 9.071
+}

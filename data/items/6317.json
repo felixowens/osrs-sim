@@ -1,0 +1,66 @@
+{
+  "_gearscape_ammunition": [],
+  "_gearscape_combat_style": "melee",
+  "_gearscape_two_handed": false,
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": true,
+  "equipment": {
+    "attack_crush": -2,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "attack_slash": 16,
+    "attack_stab": 0,
+    "defence_crush": 1,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "defence_slash": 1,
+    "defence_stab": 0,
+    "magic_damage": 0,
+    "melee_strength": 10,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": null,
+    "slot": "weapon"
+  },
+  "id": 6317,
+  "members": true,
+  "name": "red topaz machete",
+  "tradeable": true,
+  "weapon": {
+    "attack_speed": 4,
+    "stances": [
+      {
+        "attack_style": "accurate",
+        "attack_type": "slash",
+        "boosts": null,
+        "combat_style": "chop",
+        "experience": "attack"
+      },
+      {
+        "attack_style": "aggressive",
+        "attack_type": "slash",
+        "boosts": null,
+        "combat_style": "slash",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "controlled",
+        "attack_type": "stab",
+        "boosts": null,
+        "combat_style": "lunge",
+        "experience": "shared"
+      },
+      {
+        "attack_style": "defensive",
+        "attack_type": "slash",
+        "boosts": null,
+        "combat_style": "block",
+        "experience": "defence"
+      }
+    ],
+    "weapon_type": "slash_sword"
+  },
+  "weight": 1.36
+}

@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "magic",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 7,
+    "attack_ranged": -7,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 25,
+    "defence_magic": 10,
+    "defence_ranged": 0,
+    "defence_slash": 20,
+    "defence_stab": 22,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 40,
+      "magic": 40
+    },
+    "slot": "legs"
+  },
+  "id": 3389,
+  "members": true,
+  "name": "splitbark legs",
+  "tradeable": true,
+  "weight": 3.628
+}

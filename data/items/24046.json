@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 8,
+    "attack_magic": -4,
+    "attack_ranged": -3,
+    "attack_slash": 8,
+    "attack_stab": 8,
+    "defence_crush": 8,
+    "defence_magic": -4,
+    "defence_ranged": 4,
+    "defence_slash": 8,
+    "defence_stab": 8,
+    "magic_damage": 0,
+    "melee_strength": 4,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 40
+    },
+    "slot": "hands"
+  },
+  "id": 24046,
+  "members": true,
+  "name": "dragonstone gauntlets",
+  "tradeable": true,
+  "weight": 0.226
+}

@@ -1,0 +1,68 @@
+{
+  "_gearscape_ammunition": [],
+  "_gearscape_combat_style": "melee",
+  "_gearscape_two_handed": false,
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": true,
+  "equipment": {
+    "attack_crush": -4,
+    "attack_magic": 1,
+    "attack_ranged": 0,
+    "attack_slash": 5,
+    "attack_stab": 11,
+    "defence_crush": 0,
+    "defence_magic": 1,
+    "defence_ranged": 0,
+    "defence_slash": 0,
+    "defence_stab": 0,
+    "magic_damage": 0,
+    "melee_strength": 10,
+    "prayer": 5,
+    "ranged_strength": 0,
+    "requirements": {
+      "prayer": 11
+    },
+    "slot": "weapon"
+  },
+  "id": 2952,
+  "members": true,
+  "name": "wolfbane",
+  "tradeable": false,
+  "weapon": {
+    "attack_speed": 4,
+    "stances": [
+      {
+        "attack_style": "accurate",
+        "attack_type": "stab",
+        "boosts": null,
+        "combat_style": "stab",
+        "experience": "attack"
+      },
+      {
+        "attack_style": "aggressive",
+        "attack_type": "stab",
+        "boosts": null,
+        "combat_style": "lunge",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "aggressive",
+        "attack_type": "slash",
+        "boosts": null,
+        "combat_style": "slash",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "defensive",
+        "attack_type": "stab",
+        "boosts": null,
+        "combat_style": "block",
+        "experience": "defence"
+      }
+    ],
+    "weapon_type": "stab_sword"
+  },
+  "weight": 0.453
+}

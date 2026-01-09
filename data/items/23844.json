@@ -1,0 +1,30 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 4,
+    "attack_magic": 12,
+    "attack_ranged": 12,
+    "attack_slash": 12,
+    "attack_stab": 12,
+    "defence_crush": 102,
+    "defence_magic": 102,
+    "defence_ranged": 102,
+    "defence_slash": 102,
+    "defence_stab": 102,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 4,
+    "ranged_strength": 0,
+    "requirements": null,
+    "slot": "body"
+  },
+  "id": 23844,
+  "members": true,
+  "name": "corrupted body (attuned)",
+  "tradeable": false,
+  "weight": 9.979
+}

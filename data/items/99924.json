@@ -1,0 +1,30 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 35,
+    "attack_magic": 15,
+    "attack_ranged": 25,
+    "attack_slash": 35,
+    "attack_stab": 35,
+    "defence_crush": 53,
+    "defence_magic": 40,
+    "defence_ranged": 52,
+    "defence_slash": 55,
+    "defence_stab": 50,
+    "magic_damage": 0,
+    "melee_strength": 12,
+    "prayer": 6,
+    "ranged_strength": 0,
+    "requirements": null,
+    "slot": "shield"
+  },
+  "id": 99924,
+  "members": true,
+  "name": "thousand-dragon ward",
+  "tradeable": false,
+  "weight": 7.257
+}

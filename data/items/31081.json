@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 15,
+    "attack_magic": 9,
+    "attack_ranged": 9,
+    "attack_slash": 15,
+    "attack_stab": 15,
+    "defence_crush": -15,
+    "defence_magic": -15,
+    "defence_ranged": -15,
+    "defence_slash": -15,
+    "defence_stab": -15,
+    "magic_damage": 0,
+    "melee_strength": 5,
+    "prayer": 5,
+    "ranged_strength": 2,
+    "requirements": {
+      "prayer": 50
+    },
+    "slot": "shield"
+  },
+  "id": 31081,
+  "members": true,
+  "name": "antler guard",
+  "tradeable": true,
+  "weight": 0.453
+}

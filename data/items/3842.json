@@ -1,0 +1,34 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 8,
+    "attack_magic": 8,
+    "attack_ranged": 8,
+    "attack_slash": 8,
+    "attack_stab": 8,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "defence_slash": 0,
+    "defence_stab": 0,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 5,
+    "ranged_strength": 0,
+    "requirements": {
+      "magic": 20,
+      "ranged": 20,
+      "strength": 20
+    },
+    "slot": "shield"
+  },
+  "id": 3842,
+  "members": true,
+  "name": "unholy book",
+  "tradeable": false,
+  "weight": 1
+}

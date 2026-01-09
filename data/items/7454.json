@@ -1,0 +1,30 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 2,
+    "attack_magic": 1,
+    "attack_ranged": 2,
+    "attack_slash": 2,
+    "attack_stab": 2,
+    "defence_crush": 2,
+    "defence_magic": 1,
+    "defence_ranged": 2,
+    "defence_slash": 2,
+    "defence_stab": 2,
+    "magic_damage": 0,
+    "melee_strength": 2,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": null,
+    "slot": "hands"
+  },
+  "id": 7454,
+  "members": true,
+  "name": "bronze gloves",
+  "tradeable": false,
+  "weight": 0.226
+}

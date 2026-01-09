@@ -1,0 +1,68 @@
+{
+  "_gearscape_ammunition": [],
+  "_gearscape_combat_style": "melee",
+  "_gearscape_two_handed": false,
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": true,
+  "equipment": {
+    "attack_crush": 21,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "attack_slash": 0,
+    "attack_stab": 2,
+    "defence_crush": 3,
+    "defence_magic": 11,
+    "defence_ranged": 0,
+    "defence_slash": 7,
+    "defence_stab": 0,
+    "magic_damage": 1,
+    "melee_strength": 23,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "magic": 80
+    },
+    "slot": "weapon"
+  },
+  "id": 30759,
+  "members": true,
+  "name": "soulflame horn",
+  "tradeable": true,
+  "weapon": {
+    "attack_speed": 5,
+    "stances": [
+      {
+        "attack_style": "accurate",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "pound",
+        "experience": "attack"
+      },
+      {
+        "attack_style": "aggressive",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "pummel",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "controlled",
+        "attack_type": "stab",
+        "boosts": null,
+        "combat_style": "spike",
+        "experience": "shared"
+      },
+      {
+        "attack_style": "defensive",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "block",
+        "experience": "defence"
+      }
+    ],
+    "weapon_type": "spiked"
+  },
+  "weight": 0.375
+}

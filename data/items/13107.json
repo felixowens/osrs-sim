@@ -1,0 +1,38 @@
+{
+  "_gearscape_combat_style": "prayer",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": -30,
+    "attack_ranged": -10,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 55,
+    "defence_magic": -6,
+    "defence_ranged": 63,
+    "defence_slash": 63,
+    "defence_stab": 65,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "attack": 33,
+      "defence": 40,
+      "hitpoints": 5,
+      "magic": 86,
+      "prayer": 52,
+      "ranged": 40,
+      "strength": 32
+    },
+    "slot": "body"
+  },
+  "id": 13107,
+  "members": true,
+  "name": "varrock armour 4",
+  "tradeable": false,
+  "weight": 1
+}

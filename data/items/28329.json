@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 4,
+    "attack_magic": 5,
+    "attack_ranged": 4,
+    "attack_slash": 4,
+    "attack_stab": 4,
+    "defence_crush": 0,
+    "defence_magic": 5,
+    "defence_ranged": 0,
+    "defence_slash": 0,
+    "defence_stab": 0,
+    "magic_damage": 0,
+    "melee_strength": 2,
+    "prayer": 2,
+    "ranged_strength": 0,
+    "requirements": {
+      "magic": 75
+    },
+    "slot": "ring"
+  },
+  "id": 28329,
+  "members": true,
+  "name": "ring of shadows (uncharged)",
+  "tradeable": false,
+  "weight": 0.004
+}

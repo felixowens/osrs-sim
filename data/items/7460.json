@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 8,
+    "attack_magic": 4,
+    "attack_ranged": 8,
+    "attack_slash": 8,
+    "attack_stab": 8,
+    "defence_crush": 8,
+    "defence_magic": 4,
+    "defence_ranged": 8,
+    "defence_slash": 8,
+    "defence_stab": 8,
+    "magic_damage": 0,
+    "melee_strength": 8,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 34,
+      "ranged": 30
+    },
+    "slot": "hands"
+  },
+  "id": 7460,
+  "members": true,
+  "name": "rune gloves",
+  "tradeable": false,
+  "weight": 0.226
+}

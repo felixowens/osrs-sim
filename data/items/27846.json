@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 10,
+    "attack_magic": -26,
+    "attack_ranged": -13,
+    "attack_slash": 1,
+    "attack_stab": 1,
+    "defence_crush": 21,
+    "defence_magic": -10,
+    "defence_ranged": 22,
+    "defence_slash": 23,
+    "defence_stab": 25,
+    "magic_damage": 0,
+    "melee_strength": 2,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 20
+    },
+    "slot": "legs"
+  },
+  "id": 27846,
+  "members": true,
+  "name": "corrupted statius's platelegs (bh)",
+  "tradeable": false,
+  "weight": 9.071
+}

@@ -1,0 +1,38 @@
+{
+  "_gearscape_combat_style": "magic",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 6,
+    "attack_ranged": 0,
+    "attack_slash": 0,
+    "attack_stab": 6,
+    "defence_crush": 0,
+    "defence_magic": 6,
+    "defence_ranged": 0,
+    "defence_slash": 0,
+    "defence_stab": 6,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 6,
+    "ranged_strength": 0,
+    "requirements": {
+      "attack": 99,
+      "defence": 99,
+      "hitpoints": 99,
+      "magic": 99,
+      "prayer": 99,
+      "ranged": 99,
+      "strength": 99
+    },
+    "slot": "cape"
+  },
+  "id": 20760,
+  "members": true,
+  "name": "ardougne max cape",
+  "tradeable": false,
+  "weight": 0.453
+}

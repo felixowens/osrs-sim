@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "other",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": -21,
+    "attack_ranged": -11,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 19,
+    "defence_magic": -4,
+    "defence_ranged": 20,
+    "defence_slash": 20,
+    "defence_stab": 21,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 10
+    },
+    "slot": "legs"
+  },
+  "id": 1077,
+  "members": false,
+  "name": "black platelegs",
+  "tradeable": true,
+  "weight": 9.071
+}

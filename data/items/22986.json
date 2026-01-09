@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 10,
+    "attack_magic": 10,
+    "attack_ranged": 10,
+    "attack_slash": 10,
+    "attack_stab": 10,
+    "defence_crush": 2,
+    "defence_magic": 2,
+    "defence_ranged": 2,
+    "defence_slash": 2,
+    "defence_stab": 2,
+    "magic_damage": 0,
+    "melee_strength": 2,
+    "prayer": 12,
+    "ranged_strength": 0,
+    "requirements": {
+      "prayer": 70
+    },
+    "slot": "neck"
+  },
+  "id": 22986,
+  "members": true,
+  "name": "bonecrusher necklace",
+  "tradeable": false,
+  "weight": 0.025
+}

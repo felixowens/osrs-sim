@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "ranged",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": -6,
+    "attack_ranged": 8,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 14,
+    "defence_magic": 10,
+    "defence_ranged": 4,
+    "defence_slash": 3,
+    "defence_stab": 2,
+    "magic_damage": 0,
+    "melee_strength": 3,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 50,
+      "ranged": 75
+    },
+    "slot": "head"
+  },
+  "id": 29010,
+  "members": true,
+  "name": "eclipse moon helm",
+  "tradeable": true,
+  "weight": 0.907
+}

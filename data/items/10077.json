@@ -1,0 +1,30 @@
+{
+  "_gearscape_combat_style": "ranged",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 4,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 1,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "defence_slash": 2,
+    "defence_stab": 2,
+    "magic_damage": 0,
+    "melee_strength": 2,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": null,
+    "slot": "hands"
+  },
+  "id": 10077,
+  "members": true,
+  "name": "spiky vambraces",
+  "tradeable": true,
+  "weight": 0.226
+}

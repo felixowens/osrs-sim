@@ -1,0 +1,30 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 1,
+    "attack_magic": 2,
+    "attack_ranged": 2,
+    "attack_slash": 2,
+    "attack_stab": 2,
+    "defence_crush": 28,
+    "defence_magic": 28,
+    "defence_ranged": 28,
+    "defence_slash": 28,
+    "defence_stab": 28,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 1,
+    "ranged_strength": 0,
+    "requirements": null,
+    "slot": "head"
+  },
+  "id": 23840,
+  "members": true,
+  "name": "corrupted helm (basic)",
+  "tradeable": false,
+  "weight": 2.721
+}

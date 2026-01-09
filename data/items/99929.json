@@ -1,0 +1,59 @@
+{
+  "_gearscape_ammunition": null,
+  "_gearscape_combat_style": "salamander",
+  "_gearscape_two_handed": true,
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": true,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 45,
+    "attack_ranged": 155,
+    "attack_slash": 0,
+    "attack_stab": 95,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "defence_slash": 0,
+    "defence_stab": 0,
+    "magic_damage": 12,
+    "melee_strength": 103,
+    "prayer": 0,
+    "ranged_strength": 92,
+    "requirements": null,
+    "slot": "weapon"
+  },
+  "id": 99929,
+  "members": true,
+  "name": "nature's reprisal",
+  "tradeable": false,
+  "weapon": {
+    "attack_speed": 5,
+    "stances": [
+      {
+        "attack_style": "aggressive",
+        "attack_type": "stab",
+        "boosts": null,
+        "combat_style": "scorch",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "accurate",
+        "attack_type": "ranged",
+        "boosts": null,
+        "combat_style": "flare",
+        "experience": "attack"
+      },
+      {
+        "attack_style": "magic",
+        "attack_type": "magic",
+        "boosts": null,
+        "combat_style": "blaze",
+        "experience": "attack"
+      }
+    ],
+    "weapon_type": "reprisal"
+  },
+  "weight": 1.814
+}

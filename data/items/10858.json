@@ -1,0 +1,68 @@
+{
+  "_gearscape_ammunition": [],
+  "_gearscape_combat_style": "melee",
+  "_gearscape_two_handed": true,
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": true,
+  "equipment": {
+    "attack_crush": 21,
+    "attack_magic": 4,
+    "attack_ranged": 0,
+    "attack_slash": 27,
+    "attack_stab": -4,
+    "defence_crush": 0,
+    "defence_magic": 4,
+    "defence_ranged": -1,
+    "defence_slash": 0,
+    "defence_stab": 0,
+    "magic_damage": 0,
+    "melee_strength": 26,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "attack": 29
+    },
+    "slot": "weapon"
+  },
+  "id": 10858,
+  "members": true,
+  "name": "shadow sword",
+  "tradeable": false,
+  "weapon": {
+    "attack_speed": 6,
+    "stances": [
+      {
+        "attack_style": "accurate",
+        "attack_type": "slash",
+        "boosts": null,
+        "combat_style": "chop",
+        "experience": "attack"
+      },
+      {
+        "attack_style": "aggressive",
+        "attack_type": "slash",
+        "boosts": null,
+        "combat_style": "slash",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "aggressive",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "smash",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "defensive",
+        "attack_type": "slash",
+        "boosts": null,
+        "combat_style": "block",
+        "experience": "defence"
+      }
+    ],
+    "weapon_type": "2h_sword"
+  },
+  "weight": 3.628
+}

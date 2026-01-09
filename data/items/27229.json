@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "ranged",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": -4,
+    "attack_ranged": 43,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 38,
+    "defence_magic": 25,
+    "defence_ranged": 33,
+    "defence_slash": 35,
+    "defence_stab": 37,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 0,
+    "ranged_strength": 4,
+    "requirements": {
+      "defence": 30,
+      "ranged": 80
+    },
+    "slot": "body"
+  },
+  "id": 27229,
+  "members": true,
+  "name": "masori body",
+  "tradeable": true,
+  "weight": 8
+}

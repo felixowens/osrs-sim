@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "ranged",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": -3,
+    "attack_magic": -15,
+    "attack_ranged": 27,
+    "attack_slash": -2,
+    "attack_stab": 4,
+    "defence_crush": 43,
+    "defence_magic": 30,
+    "defence_ranged": 32,
+    "defence_slash": 39,
+    "defence_stab": 33,
+    "magic_damage": 0,
+    "melee_strength": 2,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 50,
+      "ranged": 60
+    },
+    "slot": "body"
+  },
+  "id": 29280,
+  "members": true,
+  "name": "mixed hide top",
+  "tradeable": true,
+  "weight": 3
+}

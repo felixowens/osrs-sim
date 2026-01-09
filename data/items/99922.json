@@ -1,0 +1,30 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 12,
+    "attack_magic": 6,
+    "attack_ranged": 12,
+    "attack_slash": 12,
+    "attack_stab": 12,
+    "defence_crush": 12,
+    "defence_magic": 6,
+    "defence_ranged": 12,
+    "defence_slash": 12,
+    "defence_stab": 12,
+    "magic_damage": 0,
+    "melee_strength": 12,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": null,
+    "slot": "hands"
+  },
+  "id": 99922,
+  "members": true,
+  "name": "gloves of the damned",
+  "tradeable": false,
+  "weight": 0.226
+}

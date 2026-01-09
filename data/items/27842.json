@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 4,
+    "attack_magic": -28,
+    "attack_ranged": -14,
+    "attack_slash": 14,
+    "attack_stab": 14,
+    "defence_crush": 23,
+    "defence_magic": -10,
+    "defence_ranged": 21,
+    "defence_slash": 21,
+    "defence_stab": 18,
+    "magic_damage": 0,
+    "melee_strength": 5,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 20
+    },
+    "slot": "body"
+  },
+  "id": 27842,
+  "members": true,
+  "name": "corrupted vesta's chainbody (bh)",
+  "tradeable": false,
+  "weight": 6.803
+}

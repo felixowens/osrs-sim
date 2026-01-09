@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "prayer",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 50,
+    "defence_magic": 1,
+    "defence_ranged": 45,
+    "defence_slash": 41,
+    "defence_stab": 39,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 1,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 45,
+      "prayer": 55
+    },
+    "slot": "shield"
+  },
+  "id": 12829,
+  "members": true,
+  "name": "spirit shield",
+  "tradeable": true,
+  "weight": 2
+}

@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 9,
+    "attack_magic": 5,
+    "attack_ranged": 9,
+    "attack_slash": 9,
+    "attack_stab": 9,
+    "defence_crush": 9,
+    "defence_magic": 5,
+    "defence_ranged": 9,
+    "defence_slash": 9,
+    "defence_stab": 9,
+    "magic_damage": 0,
+    "melee_strength": 9,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 41,
+      "ranged": 30
+    },
+    "slot": "hands"
+  },
+  "id": 7461,
+  "members": true,
+  "name": "dragon gloves",
+  "tradeable": false,
+  "weight": 0.226
+}

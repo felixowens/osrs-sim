@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "magic",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 15,
+    "attack_ranged": 0,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 48,
+    "defence_magic": 21,
+    "defence_ranged": 0,
+    "defence_slash": 44,
+    "defence_stab": 38,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 50,
+      "magic": 50
+    },
+    "slot": "body"
+  },
+  "id": 25389,
+  "members": true,
+  "name": "swampbark body",
+  "tradeable": true,
+  "weight": 4.535
+}

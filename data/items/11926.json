@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "ranged",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": -12,
+    "attack_magic": -8,
+    "attack_ranged": 12,
+    "attack_slash": -12,
+    "attack_stab": -12,
+    "defence_crush": 0,
+    "defence_magic": 24,
+    "defence_ranged": 52,
+    "defence_slash": 0,
+    "defence_stab": 0,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 0,
+    "ranged_strength": 4,
+    "requirements": {
+      "defence": 60
+    },
+    "slot": "shield"
+  },
+  "id": 11926,
+  "members": true,
+  "name": "odium ward",
+  "tradeable": true,
+  "weight": 3.628
+}

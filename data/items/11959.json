@@ -1,0 +1,61 @@
+{
+  "_gearscape_ammunition": null,
+  "_gearscape_combat_style": "ranged",
+  "_gearscape_two_handed": false,
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": true,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 0,
+    "attack_ranged": 80,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "defence_slash": 0,
+    "defence_stab": 0,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 0,
+    "ranged_strength": 30,
+    "requirements": {
+      "ranged": 65
+    },
+    "slot": "weapon"
+  },
+  "id": 11959,
+  "members": true,
+  "name": "black chinchompa",
+  "tradeable": true,
+  "weapon": {
+    "attack_speed": 4,
+    "stances": [
+      {
+        "attack_style": "accurate",
+        "attack_type": "ranged",
+        "boosts": null,
+        "combat_style": "short fuse",
+        "experience": "attack"
+      },
+      {
+        "attack_style": "rapid",
+        "attack_type": "ranged",
+        "boosts": null,
+        "combat_style": "medium fuse",
+        "experience": "ranged"
+      },
+      {
+        "attack_style": "longrange",
+        "attack_type": "ranged",
+        "boosts": null,
+        "combat_style": "long fuse",
+        "experience": "ranged and defence"
+      }
+    ],
+    "weapon_type": "chinchompa"
+  },
+  "weight": 0
+}

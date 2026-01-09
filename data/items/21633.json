@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "magic",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": -10,
+    "attack_magic": 15,
+    "attack_ranged": -10,
+    "attack_slash": -10,
+    "attack_stab": -10,
+    "defence_crush": 75,
+    "defence_magic": 15,
+    "defence_ranged": -5,
+    "defence_slash": 80,
+    "defence_stab": 72,
+    "magic_damage": 2,
+    "melee_strength": -2,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 75,
+      "magic": 70
+    },
+    "slot": "shield"
+  },
+  "id": 21633,
+  "members": true,
+  "name": "ancient wyvern shield",
+  "tradeable": false,
+  "weight": 4.535
+}

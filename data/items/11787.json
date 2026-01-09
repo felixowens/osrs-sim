@@ -1,0 +1,69 @@
+{
+  "_gearscape_ammunition": [],
+  "_gearscape_combat_style": "magic",
+  "_gearscape_two_handed": false,
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": true,
+  "equipment": {
+    "attack_crush": 28,
+    "attack_magic": 12,
+    "attack_ranged": 0,
+    "attack_slash": -1,
+    "attack_stab": 7,
+    "defence_crush": 1,
+    "defence_magic": 12,
+    "defence_ranged": 0,
+    "defence_slash": 3,
+    "defence_stab": 2,
+    "magic_damage": 0,
+    "melee_strength": 35,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "attack": 30,
+      "magic": 30
+    },
+    "slot": "weapon"
+  },
+  "id": 11787,
+  "members": true,
+  "name": "steam battlestaff",
+  "tradeable": true,
+  "weapon": {
+    "attack_speed": 5,
+    "stances": [
+      {
+        "attack_style": "accurate",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "bash",
+        "experience": "attack"
+      },
+      {
+        "attack_style": "aggressive",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "pound",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "defensive",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "focus",
+        "experience": "defence"
+      },
+      {
+        "attack_style": "magic",
+        "attack_type": "magic",
+        "boosts": null,
+        "combat_style": "spell",
+        "experience": "attack"
+      }
+    ],
+    "weapon_type": "staff"
+  },
+  "weight": 2.267
+}

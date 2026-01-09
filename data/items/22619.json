@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 5,
+    "attack_magic": -17,
+    "attack_ranged": -4,
+    "attack_slash": 5,
+    "attack_stab": 3,
+    "defence_crush": 112,
+    "defence_magic": -4,
+    "defence_ranged": 118,
+    "defence_slash": 100,
+    "defence_stab": 86,
+    "magic_damage": 0,
+    "melee_strength": 3,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 78
+    },
+    "slot": "legs"
+  },
+  "id": 22619,
+  "members": true,
+  "name": "vesta's plateskirt (dmm)",
+  "tradeable": true,
+  "weight": 8.164
+}

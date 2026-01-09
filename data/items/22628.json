@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 7,
+    "attack_magic": -30,
+    "attack_ranged": -10,
+    "attack_slash": 5,
+    "attack_stab": 5,
+    "defence_crush": 121,
+    "defence_magic": -6,
+    "defence_ranged": 157,
+    "defence_slash": 145,
+    "defence_stab": 154,
+    "magic_damage": 0,
+    "melee_strength": 5,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 78
+    },
+    "slot": "body"
+  },
+  "id": 22628,
+  "members": true,
+  "name": "statius's platebody (dmm)",
+  "tradeable": true,
+  "weight": 9.979
+}

@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": -40,
+    "attack_ranged": 0,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 62,
+    "defence_magic": -10,
+    "defence_ranged": 67,
+    "defence_slash": 85,
+    "defence_stab": 62,
+    "magic_damage": 0,
+    "melee_strength": 4,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 40
+    },
+    "slot": "body"
+  },
+  "id": 10551,
+  "members": true,
+  "name": "fighter torso",
+  "tradeable": false,
+  "weight": 4
+}

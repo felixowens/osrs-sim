@@ -1,0 +1,62 @@
+{
+  "_gearscape_ammunition": [],
+  "_gearscape_combat_style": "melee",
+  "_gearscape_two_handed": true,
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": true,
+  "equipment": {
+    "attack_crush": 85,
+    "attack_magic": -4,
+    "attack_ranged": 0,
+    "attack_slash": -4,
+    "attack_stab": -4,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "defence_slash": 0,
+    "defence_stab": 0,
+    "magic_damage": 0,
+    "melee_strength": 72,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "attack": 70,
+      "strength": 70
+    },
+    "slot": "weapon"
+  },
+  "id": 4747,
+  "members": true,
+  "name": "torag's hammers",
+  "tradeable": true,
+  "weapon": {
+    "attack_speed": 5,
+    "stances": [
+      {
+        "attack_style": "accurate",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "pound",
+        "experience": "attack"
+      },
+      {
+        "attack_style": "aggressive",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "pummel",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "defensive",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "block",
+        "experience": "defence"
+      }
+    ],
+    "weapon_type": "blunt"
+  },
+  "weight": 3.628
+}

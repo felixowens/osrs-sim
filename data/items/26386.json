@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": -24,
+    "attack_ranged": -11,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 79,
+    "defence_magic": -9,
+    "defence_ranged": 102,
+    "defence_slash": 78,
+    "defence_stab": 87,
+    "magic_damage": 0,
+    "melee_strength": 4,
+    "prayer": 1,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 80
+    },
+    "slot": "legs"
+  },
+  "id": 26386,
+  "members": true,
+  "name": "torva platelegs",
+  "tradeable": true,
+  "weight": 9.071
+}

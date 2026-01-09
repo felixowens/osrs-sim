@@ -1,0 +1,30 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 3,
+    "attack_magic": 2,
+    "attack_ranged": 3,
+    "attack_slash": 3,
+    "attack_stab": 3,
+    "defence_crush": 3,
+    "defence_magic": 2,
+    "defence_ranged": 3,
+    "defence_slash": 3,
+    "defence_stab": 3,
+    "magic_damage": 0,
+    "melee_strength": 3,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": null,
+    "slot": "hands"
+  },
+  "id": 7455,
+  "members": true,
+  "name": "iron gloves",
+  "tradeable": false,
+  "weight": 0.226
+}

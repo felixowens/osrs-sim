@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 9,
+    "attack_magic": -3,
+    "attack_ranged": -1,
+    "attack_slash": 5,
+    "attack_stab": 5,
+    "defence_crush": 8,
+    "defence_magic": -3,
+    "defence_ranged": 5,
+    "defence_slash": 8,
+    "defence_stab": 8,
+    "magic_damage": 0,
+    "melee_strength": 7,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 50,
+      "strength": 50
+    },
+    "slot": "hands"
+  },
+  "id": 21736,
+  "members": true,
+  "name": "granite gloves",
+  "tradeable": true,
+  "weight": 1
+}

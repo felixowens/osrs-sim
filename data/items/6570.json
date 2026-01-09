@@ -1,0 +1,30 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 1,
+    "attack_magic": 1,
+    "attack_ranged": 1,
+    "attack_slash": 1,
+    "attack_stab": 1,
+    "defence_crush": 11,
+    "defence_magic": 11,
+    "defence_ranged": 11,
+    "defence_slash": 11,
+    "defence_stab": 11,
+    "magic_damage": 0,
+    "melee_strength": 4,
+    "prayer": 2,
+    "ranged_strength": 0,
+    "requirements": null,
+    "slot": "cape"
+  },
+  "id": 6570,
+  "members": true,
+  "name": "fire cape",
+  "tradeable": false,
+  "weight": 1.814
+}

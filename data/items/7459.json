@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 7,
+    "attack_magic": 4,
+    "attack_ranged": 7,
+    "attack_slash": 7,
+    "attack_stab": 7,
+    "defence_crush": 7,
+    "defence_magic": 4,
+    "defence_ranged": 7,
+    "defence_slash": 7,
+    "defence_stab": 7,
+    "magic_damage": 0,
+    "melee_strength": 7,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 13,
+      "ranged": 30
+    },
+    "slot": "hands"
+  },
+  "id": 7459,
+  "members": true,
+  "name": "adamant gloves",
+  "tradeable": false,
+  "weight": 0.226
+}

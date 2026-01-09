@@ -1,0 +1,38 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 6,
+    "attack_magic": 0,
+    "attack_ranged": 0,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 8,
+    "defence_magic": 8,
+    "defence_ranged": 8,
+    "defence_slash": 8,
+    "defence_stab": 8,
+    "magic_damage": 0,
+    "melee_strength": 1,
+    "prayer": 1,
+    "ranged_strength": 0,
+    "requirements": {
+      "attack": 99,
+      "defence": 99,
+      "hitpoints": 99,
+      "magic": 99,
+      "prayer": 99,
+      "ranged": 99,
+      "strength": 99
+    },
+    "slot": "cape"
+  },
+  "id": 24855,
+  "members": true,
+  "name": "mythical max cape",
+  "tradeable": false,
+  "weight": 0.453
+}

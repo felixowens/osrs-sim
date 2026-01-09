@@ -1,7 +1,8 @@
 {
-  "buy_limit": 70,
-  "cost": 2000000,
-  "duplicate": false,
+  "_gearscape_ammunition": [],
+  "_gearscape_combat_style": "melee",
+  "_gearscape_two_handed": false,
+  "_source": "gearscape",
   "equipable": true,
   "equipable_by_player": true,
   "equipable_weapon": true,
@@ -20,30 +21,15 @@
     "melee_strength": 80,
     "prayer": 0,
     "ranged_strength": 0,
-    "requirements": null,
+    "requirements": {
+      "attack": 75
+    },
     "slot": "weapon"
   },
-  "examine": "A truly fearsome weapon.",
-  "highalch": 1200000,
-  "icon": "iVBORw0KGgoAAAANSUhEUgAAACQAAAAgCAYAAAB6kdqOAAABh0lEQVR4Xs3W70vCYBAH8N0LkSQW0jBQWrahsRb+CDLBTGMtcsZYRNjLfNmLXvT/v7i4G9ueHl/3nF+4F5OJH+6527QsowHUPxEMYDSf456gAJ8WC7yfThk06nYlUYDPD8uyO4QRBAEmjxF3524yke4OYK8dMoa6czMaSoIAL/t9BhFG7Y4AKMcUIBpkwe4AXgUBl3cSMOh2POZrAVCFOXU8xhRHJXBcgMMw5GNqOU45OyrEKOZ6MCgx72mKy9lMoiuUHHPh+4yha/VpbBxD26NicoAgJql9/cEUCEOYfFuoaJXT2jf6driDMRTAlzjGt/UaozDBrP6DcW0rhaEAvq5WjLIsm6vdcJW5MR7gdaYX5XmrxyXYHQrws4UGmVAfWVbOk36noeRb5bkuF606vSLoGSSAAjyybTyo15WuVGX42AAPG40SU/y4Xvq3/imAx83mDka/y1AAzzodaUw1F5+bDc+NKIbe0rTa9D+m2B4hTJGqQypIv8tocsAegaqIH9du9gojmV9kQSVafzysKgAAAABJRU5ErkJggg==",
   "id": 27690,
-  "incomplete": false,
-  "last_updated": "2024-10-01",
-  "linked_id_item": null,
-  "linked_id_noted": 27691,
-  "linked_id_placeholder": 27692,
-  "lowalch": 800000,
   "members": true,
-  "name": "Voidwaker",
-  "noteable": true,
-  "noted": false,
-  "placeholder": false,
-  "quest_item": false,
-  "release_date": "2023-01-25",
-  "stackable": false,
-  "stacked": null,
+  "name": "voidwaker",
   "tradeable": true,
-  "tradeable_on_ge": true,
   "weapon": {
     "attack_speed": 4,
     "stances": [
@@ -78,7 +64,5 @@
     ],
     "weapon_type": "slash_sword"
   },
-  "weight": 1.814,
-  "wiki_name": "Voidwaker",
-  "wiki_url": "https://oldschool.runescape.wiki/w/Voidwaker"
+  "weight": 1.814
 }

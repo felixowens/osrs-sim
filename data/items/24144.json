@@ -1,0 +1,69 @@
+{
+  "_gearscape_ammunition": [],
+  "_gearscape_combat_style": "magic",
+  "_gearscape_two_handed": false,
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": true,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 17,
+    "attack_ranged": 0,
+    "attack_slash": 70,
+    "attack_stab": 55,
+    "defence_crush": 3,
+    "defence_magic": 17,
+    "defence_ranged": 0,
+    "defence_slash": 3,
+    "defence_stab": 0,
+    "magic_damage": 15,
+    "melee_strength": 72,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "attack": 75,
+      "magic": 75
+    },
+    "slot": "weapon"
+  },
+  "id": 24144,
+  "members": true,
+  "name": "staff of balance",
+  "tradeable": true,
+  "weapon": {
+    "attack_speed": 4,
+    "stances": [
+      {
+        "attack_style": "accurate",
+        "attack_type": "stab",
+        "boosts": null,
+        "combat_style": "jab",
+        "experience": "attack"
+      },
+      {
+        "attack_style": "aggressive",
+        "attack_type": "slash",
+        "boosts": null,
+        "combat_style": "swipe",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "defensive",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "fend",
+        "experience": "defence"
+      },
+      {
+        "attack_style": "magic",
+        "attack_type": "magic",
+        "boosts": null,
+        "combat_style": "spell",
+        "experience": "attack"
+      }
+    ],
+    "weapon_type": "bladed_staff"
+  },
+  "weight": 1.5
+}

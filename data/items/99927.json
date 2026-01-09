@@ -1,0 +1,30 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 30,
+    "attack_magic": 30,
+    "attack_ranged": 30,
+    "attack_slash": 30,
+    "attack_stab": 30,
+    "defence_crush": 30,
+    "defence_magic": 30,
+    "defence_ranged": 30,
+    "defence_slash": 30,
+    "defence_stab": 30,
+    "magic_damage": 5,
+    "melee_strength": 15,
+    "prayer": 10,
+    "ranged_strength": 15,
+    "requirements": null,
+    "slot": "ring"
+  },
+  "id": 99927,
+  "members": true,
+  "name": "emperor ring",
+  "tradeable": false,
+  "weight": 0.004
+}

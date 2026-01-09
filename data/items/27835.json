@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 10,
+    "attack_magic": -30,
+    "attack_ranged": -12,
+    "attack_slash": 1,
+    "attack_stab": 1,
+    "defence_crush": 68,
+    "defence_magic": -14,
+    "defence_ranged": 95,
+    "defence_slash": 71,
+    "defence_stab": 73,
+    "magic_damage": 0,
+    "melee_strength": 3,
+    "prayer": 3,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 78
+    },
+    "slot": "legs"
+  },
+  "id": 27835,
+  "members": true,
+  "name": "statius's platelegs (bh)",
+  "tradeable": false,
+  "weight": 9.071
+}

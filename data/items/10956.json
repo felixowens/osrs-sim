@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "ranged",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": -5,
+    "attack_ranged": 2,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 9,
+    "defence_magic": 4,
+    "defence_ranged": 9,
+    "defence_slash": 7,
+    "defence_stab": 7,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 25,
+      "ranged": 25
+    },
+    "slot": "legs"
+  },
+  "id": 10956,
+  "members": true,
+  "name": "frog-leather chaps",
+  "tradeable": true,
+  "weight": 3
+}

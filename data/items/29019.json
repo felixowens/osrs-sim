@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "magic",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 0,
+    "attack_magic": 6,
+    "attack_ranged": 0,
+    "attack_slash": 0,
+    "attack_stab": 0,
+    "defence_crush": 10,
+    "defence_magic": 6,
+    "defence_ranged": 0,
+    "defence_slash": 0,
+    "defence_stab": 0,
+    "magic_damage": 1,
+    "melee_strength": 3,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 50,
+      "magic": 75
+    },
+    "slot": "head"
+  },
+  "id": 29019,
+  "members": true,
+  "name": "blue moon helm",
+  "tradeable": true,
+  "weight": 0.453
+}

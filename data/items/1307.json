@@ -1,0 +1,66 @@
+{
+  "_gearscape_ammunition": [],
+  "_gearscape_combat_style": "melee",
+  "_gearscape_two_handed": true,
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": true,
+  "equipment": {
+    "attack_crush": 8,
+    "attack_magic": -4,
+    "attack_ranged": 0,
+    "attack_slash": 9,
+    "attack_stab": -4,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": -1,
+    "defence_slash": 0,
+    "defence_stab": 0,
+    "magic_damage": 0,
+    "melee_strength": 10,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": null,
+    "slot": "weapon"
+  },
+  "id": 1307,
+  "members": false,
+  "name": "bronze 2h sword",
+  "tradeable": true,
+  "weapon": {
+    "attack_speed": 7,
+    "stances": [
+      {
+        "attack_style": "accurate",
+        "attack_type": "slash",
+        "boosts": null,
+        "combat_style": "chop",
+        "experience": "attack"
+      },
+      {
+        "attack_style": "aggressive",
+        "attack_type": "slash",
+        "boosts": null,
+        "combat_style": "slash",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "aggressive",
+        "attack_type": "crush",
+        "boosts": null,
+        "combat_style": "smash",
+        "experience": "strength"
+      },
+      {
+        "attack_style": "defensive",
+        "attack_type": "slash",
+        "boosts": null,
+        "combat_style": "block",
+        "experience": "defence"
+      }
+    ],
+    "weapon_type": "2h_sword"
+  },
+  "weight": 3.628
+}

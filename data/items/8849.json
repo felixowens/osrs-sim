@@ -1,0 +1,33 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 11,
+    "attack_magic": -3,
+    "attack_ranged": -2,
+    "attack_slash": 12,
+    "attack_stab": 13,
+    "defence_crush": 11,
+    "defence_magic": -3,
+    "defence_ranged": -2,
+    "defence_slash": 12,
+    "defence_stab": 13,
+    "magic_damage": 0,
+    "melee_strength": 4,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "attack": 30,
+      "defence": 30
+    },
+    "slot": "shield"
+  },
+  "id": 8849,
+  "members": true,
+  "name": "adamant defender",
+  "tradeable": false,
+  "weight": 0.453
+}

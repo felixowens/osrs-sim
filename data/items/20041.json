@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 2,
+    "attack_magic": 2,
+    "attack_ranged": 2,
+    "attack_slash": 2,
+    "attack_stab": 2,
+    "defence_crush": 3,
+    "defence_magic": 3,
+    "defence_ranged": 3,
+    "defence_slash": 3,
+    "defence_stab": 3,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "defence": 35
+    },
+    "slot": "hands"
+  },
+  "id": 20041,
+  "members": true,
+  "name": "samurai gloves",
+  "tradeable": true,
+  "weight": 0.4
+}

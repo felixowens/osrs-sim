@@ -1,0 +1,30 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 15,
+    "attack_magic": 15,
+    "attack_ranged": 15,
+    "attack_slash": 15,
+    "attack_stab": 15,
+    "defence_crush": 60,
+    "defence_magic": 60,
+    "defence_ranged": 60,
+    "defence_slash": 60,
+    "defence_stab": 60,
+    "magic_damage": 5,
+    "melee_strength": 10,
+    "prayer": 10,
+    "ranged_strength": 5,
+    "requirements": null,
+    "slot": "head"
+  },
+  "id": 99935,
+  "members": true,
+  "name": "battlehat",
+  "tradeable": false,
+  "weight": 2.721
+}

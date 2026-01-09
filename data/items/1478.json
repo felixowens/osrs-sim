@@ -1,0 +1,32 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 4,
+    "attack_magic": 4,
+    "attack_ranged": 4,
+    "attack_slash": 4,
+    "attack_stab": 4,
+    "defence_crush": 0,
+    "defence_magic": 0,
+    "defence_ranged": 0,
+    "defence_slash": 0,
+    "defence_stab": 0,
+    "magic_damage": 0,
+    "melee_strength": 0,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": {
+      "magic": 8
+    },
+    "slot": "neck"
+  },
+  "id": 1478,
+  "members": false,
+  "name": "amulet of accuracy",
+  "tradeable": true,
+  "weight": 0.01
+}

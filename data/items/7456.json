@@ -1,0 +1,30 @@
+{
+  "_gearscape_combat_style": "melee",
+  "_source": "gearscape",
+  "equipable": true,
+  "equipable_by_player": true,
+  "equipable_weapon": false,
+  "equipment": {
+    "attack_crush": 4,
+    "attack_magic": 2,
+    "attack_ranged": 4,
+    "attack_slash": 4,
+    "attack_stab": 4,
+    "defence_crush": 4,
+    "defence_magic": 2,
+    "defence_ranged": 4,
+    "defence_slash": 4,
+    "defence_stab": 4,
+    "magic_damage": 0,
+    "melee_strength": 4,
+    "prayer": 0,
+    "ranged_strength": 0,
+    "requirements": null,
+    "slot": "hands"
+  },
+  "id": 7456,
+  "members": true,
+  "name": "steel gloves",
+  "tradeable": false,
+  "weight": 0.226
+}
