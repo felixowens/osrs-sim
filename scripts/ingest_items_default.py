@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Run ingest_items.py with repo-local defaults."""
+"""Run ingest_entities.py with repo-local defaults."""
 
 from __future__ import annotations
 
@@ -34,10 +34,15 @@ def resolve_path(root: Path, value: str) -> Path:
 
 def main() -> int:
     root = Path(__file__).resolve().parents[1]
-    whitelist = root / "data" / "item-ids.json"
     config_path = root / "data" / "ingest.json"
 
     config = load_config(config_path)
+    whitelist_value = config.get("whitelist", "data/item-ids.json")
+    if not isinstance(whitelist_value, str) or not whitelist_value.strip():
+        print("error: ingest.json has invalid 'whitelist'", file=sys.stderr)
+        return 1
+    whitelist = resolve_path(root, whitelist_value)
+
     base_url = config.get("base_url")
     if not isinstance(base_url, str) or not base_url.strip():
         print("error: ingest.json missing 'base_url'", file=sys.stderr)
@@ -52,7 +57,7 @@ def main() -> int:
 
     cmd = [
         sys.executable,
-        str(root / "scripts" / "ingest_items.py"),
+        str(root / "scripts" / "ingest_entities.py"),
         "--whitelist",
         str(whitelist),
         "--base-url",
@@ -60,6 +65,10 @@ def main() -> int:
         "--out-dir",
         str(out_dir),
     ]
+
+    kind_value = config.get("kind")
+    if isinstance(kind_value, str) and kind_value.strip():
+        cmd.extend(["--kind", kind_value])
 
     if config.get("allow_missing") is True:
         cmd.append("--allow-missing")
