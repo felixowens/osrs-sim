@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Giant Scarab (Nightmare Zone)#Normal Mode",
+  "attack_bonus": 0,
+  "attack_level": 169,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "stab",
+    "ranged"
+  ],
+  "attributes": [
+    "kalphite"
+  ],
+  "boss": false,
+  "category": [
+    "Scabarites"
+  ],
+  "combat_level": 191,
+  "defence_crush": 99,
+  "defence_level": 169,
+  "defence_magic": 159,
+  "defence_ranged": 103,
+  "defence_ranged_heavy": 149,
+  "defence_ranged_light": 149,
+  "defence_ranged_standard": 103,
+  "defence_slash": 99,
+  "defence_stab": 70,
+  "elemental_weakness": "Fire",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 130,
+  "id": 6343,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 20,
+  "name": "Giant Scarab (Nightmare Zone)",
+  "ranged_bonus": 0,
+  "ranged_level": 190,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 137.0,
+  "strength_bonus": 0,
+  "strength_level": 190,
+  "version": "Normal Mode"
+}

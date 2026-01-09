@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Doom of Mokhaiotl#Deep Delve",
+  "attack_bonus": 210,
+  "attack_level": 300,
+  "attack_magic": 125,
+  "attack_ranged": 120,
+  "attack_speed": 4,
+  "attack_type": [
+    "melee",
+    "magic",
+    "ranged"
+  ],
+  "attributes": [
+    "demon"
+  ],
+  "boss": true,
+  "category": [
+    "Bosses"
+  ],
+  "combat_level": 908,
+  "defence_crush": 60,
+  "defence_level": 90,
+  "defence_magic": 160,
+  "defence_ranged": 160,
+  "defence_ranged_heavy": 160,
+  "defence_ranged_light": 160,
+  "defence_ranged_standard": 160,
+  "defence_slash": 300,
+  "defence_stab": 300,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 625,
+  "id": 14707,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 30,
+  "magic_level": 275,
+  "max_hit": 65,
+  "name": "Doom of Mokhaiotl",
+  "ranged_bonus": 50,
+  "ranged_level": 110,
+  "size": 5,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 0.0,
+  "strength_bonus": 45,
+  "strength_level": 190,
+  "version": "Deep Delve"
+}

@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Spiked Turoth",
+  "attack_bonus": 0,
+  "attack_level": 204,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "stab"
+  ],
+  "attributes": [
+    "leafy"
+  ],
+  "boss": false,
+  "category": [
+    "Turoth"
+  ],
+  "combat_level": 244,
+  "defence_crush": 40,
+  "defence_level": 154,
+  "defence_magic": 0,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 40,
+  "defence_stab": 0,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 195,
+  "id": 10397,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 29,
+  "name": "Spiked Turoth",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 3,
+  "slayer_level": 55,
+  "slayer_monster": true,
+  "slayer_xp": 1998.0,
+  "strength_bonus": 0,
+  "strength_level": 280,
+  "version": null
+}

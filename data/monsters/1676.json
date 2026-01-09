@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Torag the Corrupted",
+  "attack_bonus": 0,
+  "attack_level": 100,
+  "attack_magic": -33,
+  "attack_ranged": -11,
+  "attack_speed": 5,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "spectral"
+  ],
+  "boss": true,
+  "category": [
+    "Bosses"
+  ],
+  "combat_level": 115,
+  "defence_crush": 222,
+  "defence_level": 100,
+  "defence_magic": 0,
+  "defence_ranged": 221,
+  "defence_ranged_heavy": 221,
+  "defence_ranged_light": 221,
+  "defence_ranged_standard": 221,
+  "defence_slash": 235,
+  "defence_stab": 221,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 100,
+  "id": 1676,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 23,
+  "name": "Torag the Corrupted",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 112.0,
+  "strength_bonus": 72,
+  "strength_level": 100,
+  "version": null
+}

@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Count Draynor (Nightmare Zone)#Normal Mode",
+  "attack_bonus": 0,
+  "attack_level": 30,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "vampyre1"
+  ],
+  "boss": false,
+  "category": [
+    "Vampyres"
+  ],
+  "combat_level": 34,
+  "defence_crush": 3,
+  "defence_level": 30,
+  "defence_magic": 0,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 1,
+  "defence_stab": 2,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 35,
+  "id": 6393,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 3,
+  "name": "Count Draynor (Nightmare Zone)",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 35.0,
+  "strength_bonus": 0,
+  "strength_level": 25,
+  "version": "Normal Mode"
+}

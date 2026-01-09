@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Tormented Demon#1",
+  "attack_bonus": 400,
+  "attack_level": 255,
+  "attack_magic": 300,
+  "attack_ranged": 300,
+  "attack_speed": 6,
+  "attack_type": [
+    "all"
+  ],
+  "attributes": [
+    "demon"
+  ],
+  "boss": false,
+  "category": [
+    "Greater Demons"
+  ],
+  "combat_level": 450,
+  "defence_crush": 68,
+  "defence_level": 150,
+  "defence_magic": 5,
+  "defence_ranged": 150,
+  "defence_ranged_heavy": 90,
+  "defence_ranged_light": 140,
+  "defence_ranged_standard": 150,
+  "defence_slash": 175,
+  "defence_stab": 75,
+  "elemental_weakness": "Water",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 600,
+  "id": 13599,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 5,
+  "magic_level": 255,
+  "max_hit": 0,
+  "name": "Tormented Demon",
+  "ranged_bonus": 5,
+  "ranged_level": 255,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 1065.0,
+  "strength_bonus": 10,
+  "strength_level": 255,
+  "version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Scarab Mage#Level 93",
+  "attack_bonus": 0,
+  "attack_level": 90,
+  "attack_magic": 70,
+  "attack_ranged": 0,
+  "attack_speed": 15,
+  "attack_type": [
+    "magic"
+  ],
+  "attributes": [
+    "kalphite"
+  ],
+  "boss": false,
+  "category": [
+    "Scabarites"
+  ],
+  "combat_level": 93,
+  "defence_crush": 90,
+  "defence_level": 90,
+  "defence_magic": 34,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 90,
+  "defence_stab": 40,
+  "elemental_weakness": "Fire",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 50,
+  "id": 794,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 70,
+  "magic_level": 70,
+  "max_hit": 17,
+  "name": "Scarab Mage",
+  "ranged_bonus": 80,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 51.0,
+  "strength_bonus": 0,
+  "strength_level": 90,
+  "version": "Level 93"
+}

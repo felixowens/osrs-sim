@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Skeleton (Wilderness Agility Course)#7",
+  "attack_bonus": 15,
+  "attack_level": 24,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "slash"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": false,
+  "category": [
+    "Skeletons"
+  ],
+  "combat_level": 18,
+  "defence_crush": -2,
+  "defence_level": 24,
+  "defence_magic": 1,
+  "defence_ranged": 4,
+  "defence_ranged_heavy": 4,
+  "defence_ranged_light": 4,
+  "defence_ranged_standard": 4,
+  "defence_slash": 11,
+  "defence_stab": 9,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 17,
+  "id": 13501,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 1,
+  "name": "Skeleton (Wilderness Agility Course)",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 17.0,
+  "strength_bonus": 14,
+  "strength_level": 1,
+  "version": "7"
+}

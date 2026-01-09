@@ -202,6 +202,11 @@ impl DataStore {
         for entry in fs::read_dir(items_dir)? {
             let entry = entry?;
             let path = entry.path();
+            // Skip files starting with underscore (like _index.json)
+            let filename = path.file_name().and_then(|n| n.to_str()).unwrap_or("");
+            if filename.starts_with('_') {
+                continue;
+            }
             if path.extension().map(|e| e == "json").unwrap_or(false) {
                 let content = fs::read_to_string(&path)?;
                 let item: ItemData = serde_json::from_str(&content)?;
@@ -221,6 +226,11 @@ impl DataStore {
         for entry in fs::read_dir(monsters_dir)? {
             let entry = entry?;
             let path = entry.path();
+            // Skip files starting with underscore (like _index.json)
+            let filename = path.file_name().and_then(|n| n.to_str()).unwrap_or("");
+            if filename.starts_with('_') {
+                continue;
+            }
             if path.extension().map(|e| e == "json").unwrap_or(false) {
                 let content = fs::read_to_string(&path)?;
                 let monster: MonsterData = serde_json::from_str(&content)?;

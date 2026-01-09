@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Adamant dragon",
+  "attack_bonus": 0,
+  "attack_level": 280,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "slash",
+    "ranged",
+    "magic",
+    "dragonfire"
+  ],
+  "attributes": [
+    "dragon",
+    "fiery"
+  ],
+  "boss": false,
+  "category": [
+    "Metal Dragons"
+  ],
+  "combat_level": 338,
+  "defence_crush": 85,
+  "defence_level": 272,
+  "defence_magic": 30,
+  "defence_ranged": 95,
+  "defence_ranged_heavy": 65,
+  "defence_ranged_light": 95,
+  "defence_ranged_standard": 95,
+  "defence_slash": 110,
+  "defence_stab": 20,
+  "elemental_weakness": "Earth",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 295,
+  "id": 8030,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 186,
+  "max_hit": 50,
+  "name": "Adamant dragon",
+  "ranged_bonus": 0,
+  "ranged_level": 186,
+  "size": 5,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 324.0,
+  "strength_bonus": 0,
+  "strength_level": 280,
+  "version": null
+}

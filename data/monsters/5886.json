@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Abyssal Sire#Phase 1",
+  "attack_bonus": 65,
+  "attack_level": 180,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 7,
+  "attack_type": [
+    "melee"
+  ],
+  "attributes": [
+    "demon"
+  ],
+  "boss": true,
+  "category": [
+    "Bosses",
+    "Abyssal Demons"
+  ],
+  "combat_level": 350,
+  "defence_crush": 50,
+  "defence_level": 250,
+  "defence_magic": 20,
+  "defence_ranged": 60,
+  "defence_ranged_heavy": 60,
+  "defence_ranged_light": 60,
+  "defence_ranged_standard": 60,
+  "defence_slash": 60,
+  "defence_stab": 40,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 425,
+  "id": 5886,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 200,
+  "max_hit": 96,
+  "name": "Abyssal Sire",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 6,
+  "slayer_level": 85,
+  "slayer_monster": true,
+  "slayer_xp": 478.0,
+  "strength_bonus": 0,
+  "strength_level": 136,
+  "version": "Phase 1"
+}

@@ -229,27 +229,47 @@ fn cmd_eval(
         println!("  Accuracy:       {:.2}%", result.accuracy * 100.0);
         println!("  Attack Roll:    {}", result.attack_roll);
         println!("  Defence Roll:   {}", result.defence_roll);
-        println!("  Attack Speed:   {} ticks ({:.1}s)", result.interval_ticks, result.interval_ticks as f64 * 0.6);
+        println!(
+            "  Attack Speed:   {} ticks ({:.1}s)",
+            result.interval_ticks,
+            result.interval_ticks as f64 * 0.6
+        );
 
         if explain {
             println!();
             println!("=== Breakdown ===");
             println!();
             println!("Player Stats:");
-            println!("  Attack:   {} (base) + {} (potion) * {}/{} (prayer)",
-                player.attack, player.potion_attack_boost,
-                player.prayer_attack_mult.0, player.prayer_attack_mult.1);
-            println!("  Strength: {} (base) + {} (potion) * {}/{} (prayer)",
-                player.strength, player.potion_strength_boost,
-                player.prayer_strength_mult.0, player.prayer_strength_mult.1);
+            println!(
+                "  Attack:   {} (base) + {} (potion) * {}/{} (prayer)",
+                player.attack,
+                player.potion_attack_boost,
+                player.prayer_attack_mult.0,
+                player.prayer_attack_mult.1
+            );
+            println!(
+                "  Strength: {} (base) + {} (potion) * {}/{} (prayer)",
+                player.strength,
+                player.potion_strength_boost,
+                player.prayer_strength_mult.0,
+                player.prayer_strength_mult.1
+            );
             println!();
             println!("Equipment Bonuses:");
-            println!("  Attack ({:?}): {}", build.attack_type, build.bonuses.attack_bonus_for(build.attack_type));
+            println!(
+                "  Attack ({:?}): {}",
+                build.attack_type,
+                build.bonuses.attack_bonus_for(build.attack_type)
+            );
             println!("  Melee Strength: {}", build.bonuses.melee_strength);
             println!();
             println!("Target:");
             println!("  Defence Level: {}", target.defence_level);
-            println!("  Defence ({:?}): {}", build.attack_type, target.defence_bonuses.defence_bonus_for(build.attack_type));
+            println!(
+                "  Defence ({:?}): {}",
+                build.attack_type,
+                target.defence_bonuses.defence_bonus_for(build.attack_type)
+            );
             println!("  Attributes: {:?}", target.attributes);
         }
     }
@@ -271,11 +291,17 @@ fn cmd_validate_data(data_dir: &PathBuf) -> Result<()> {
 
     for (id, item) in &store.items {
         if item.equipable && item.equipment.is_none() {
-            println!("Warning: Item {} ({}) is equipable but has no equipment data", id, item.name);
+            println!(
+                "Warning: Item {} ({}) is equipable but has no equipment data",
+                id, item.name
+            );
             warnings += 1;
         }
         if item.equipable_weapon && item.weapon.is_none() {
-            println!("Warning: Item {} ({}) is a weapon but has no weapon data", id, item.name);
+            println!(
+                "Warning: Item {} ({}) is a weapon but has no weapon data",
+                id, item.name
+            );
             warnings += 1;
         }
     }
@@ -337,13 +363,19 @@ fn cmd_item_info(id: u32, data_dir: &PathBuf) -> Result<()> {
     if let Some(ref wpn) = item.weapon {
         println!();
         println!("Weapon Data:");
-        println!("  Attack Speed: {} ticks ({:.1}s)", wpn.attack_speed, wpn.attack_speed as f64 * 0.6);
+        println!(
+            "  Attack Speed: {} ticks ({:.1}s)",
+            wpn.attack_speed,
+            wpn.attack_speed as f64 * 0.6
+        );
         println!("  Weapon Type:  {}", wpn.weapon_type);
         println!();
         println!("  Stances:");
         for stance in &wpn.stances {
-            println!("    - {} ({}) -> {} XP",
-                stance.combat_style, stance.attack_type, stance.experience);
+            println!(
+                "    - {} ({}) -> {} XP",
+                stance.combat_style, stance.attack_type, stance.experience
+            );
         }
     }
 

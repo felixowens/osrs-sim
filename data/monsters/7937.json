@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Revenant ork",
+  "attack_bonus": 60,
+  "attack_level": 99,
+  "attack_magic": 0,
+  "attack_ranged": 50,
+  "attack_speed": 5,
+  "attack_type": [
+    "slash",
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Revenants",
+    "Ghosts"
+  ],
+  "combat_level": 105,
+  "defence_crush": 146,
+  "defence_level": 60,
+  "defence_magic": 50,
+  "defence_ranged": 148,
+  "defence_ranged_heavy": 118,
+  "defence_ranged_light": 148,
+  "defence_ranged_standard": 148,
+  "defence_slash": 150,
+  "defence_stab": 118,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 105,
+  "id": 7937,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 110,
+  "max_hit": 20,
+  "name": "Revenant ork",
+  "ranged_bonus": 0,
+  "ranged_level": 130,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 115.0,
+  "strength_bonus": 55,
+  "strength_level": 100,
+  "version": null
+}

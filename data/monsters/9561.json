@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Damien Leucurte",
+  "attack_bonus": 0,
+  "attack_level": 0,
+  "attack_magic": 18,
+  "attack_ranged": 18,
+  "attack_speed": 5,
+  "attack_type": [
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "vampyre3"
+  ],
+  "boss": false,
+  "category": [
+    "Vampyres"
+  ],
+  "combat_level": 204,
+  "defence_crush": 30,
+  "defence_level": 160,
+  "defence_magic": 30,
+  "defence_ranged": 30,
+  "defence_ranged_heavy": 30,
+  "defence_ranged_light": 30,
+  "defence_ranged_standard": 30,
+  "defence_slash": 30,
+  "defence_stab": 30,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 217,
+  "id": 9561,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 12,
+  "magic_level": 160,
+  "max_hit": 20,
+  "name": "Damien Leucurte",
+  "ranged_bonus": 12,
+  "ranged_level": 160,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 360.0,
+  "strength_bonus": 0,
+  "strength_level": 0,
+  "version": null
+}

@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Revenant demon",
+  "attack_bonus": 30,
+  "attack_level": 83,
+  "attack_magic": 50,
+  "attack_ranged": 40,
+  "attack_speed": 5,
+  "attack_type": [
+    "crush",
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Revenants",
+    "Ghosts"
+  ],
+  "combat_level": 98,
+  "defence_crush": 130,
+  "defence_level": 80,
+  "defence_magic": 85,
+  "defence_ranged": 90,
+  "defence_ranged_heavy": 90,
+  "defence_ranged_light": 90,
+  "defence_ranged_standard": 90,
+  "defence_slash": 118,
+  "defence_stab": 124,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 80,
+  "id": 7936,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 24,
+  "magic_level": 120,
+  "max_hit": 15,
+  "name": "Revenant demon",
+  "ranged_bonus": 30,
+  "ranged_level": 80,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 86.0,
+  "strength_bonus": 50,
+  "strength_level": 76,
+  "version": null
+}

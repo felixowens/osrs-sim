@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Revenant cyclops",
+  "attack_bonus": 53,
+  "attack_level": 60,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 6,
+  "attack_type": [
+    "crush",
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Revenants",
+    "Ghosts"
+  ],
+  "combat_level": 82,
+  "defence_crush": 135,
+  "defence_level": 49,
+  "defence_magic": 10,
+  "defence_ranged": 135,
+  "defence_ranged_heavy": 95,
+  "defence_ranged_light": 135,
+  "defence_ranged_standard": 135,
+  "defence_slash": 130,
+  "defence_stab": 110,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 110,
+  "id": 7934,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 65,
+  "max_hit": 16,
+  "name": "Revenant cyclops",
+  "ranged_bonus": 0,
+  "ranged_level": 70,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 119.0,
+  "strength_bonus": 64,
+  "strength_level": 73,
+  "version": null
+}

@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Flaming pyrelord",
+  "attack_bonus": 0,
+  "attack_level": 98,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "magical melee"
+  ],
+  "attributes": [
+    "demon"
+  ],
+  "boss": false,
+  "category": [
+    "Pyrefiends"
+  ],
+  "combat_level": 97,
+  "defence_crush": 18,
+  "defence_level": 52,
+  "defence_magic": 0,
+  "defence_ranged": 18,
+  "defence_ranged_heavy": 18,
+  "defence_ranged_light": 18,
+  "defence_ranged_standard": 18,
+  "defence_slash": 18,
+  "defence_stab": 18,
+  "elemental_weakness": "Water",
+  "elemental_weakness_percent": 100,
+  "hitpoints": 125,
+  "id": 7394,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 7,
+  "name": "Flaming pyrelord",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 2,
+  "slayer_level": 30,
+  "slayer_monster": true,
+  "slayer_xp": 1250.0,
+  "strength_bonus": 0,
+  "strength_level": 65,
+  "version": null
+}

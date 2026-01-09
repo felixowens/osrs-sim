@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Lesser demon#Level 94 (Wilderness Slayer Cave)",
+  "attack_bonus": 0,
+  "attack_level": 68,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "slash"
+  ],
+  "attributes": [
+    "demon"
+  ],
+  "boss": false,
+  "category": [
+    "Lesser Demons"
+  ],
+  "combat_level": 94,
+  "defence_crush": 0,
+  "defence_level": 71,
+  "defence_magic": -10,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 0,
+  "defence_stab": 0,
+  "elemental_weakness": "Water",
+  "elemental_weakness_percent": 40,
+  "hitpoints": 110,
+  "id": 7865,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 9,
+  "name": "Lesser demon",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 2,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 110.0,
+  "strength_bonus": 0,
+  "strength_level": 85,
+  "version": "Level 94 (Wilderness Slayer Cave)"
+}

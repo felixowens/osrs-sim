@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Revenant dark beast",
+  "attack_bonus": 65,
+  "attack_level": 93,
+  "attack_magic": 0,
+  "attack_ranged": 45,
+  "attack_speed": 5,
+  "attack_type": [
+    "crush",
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Revenants",
+    "Ghosts"
+  ],
+  "combat_level": 120,
+  "defence_crush": 155,
+  "defence_level": 80,
+  "defence_magic": 70,
+  "defence_ranged": 158,
+  "defence_ranged_heavy": 118,
+  "defence_ranged_light": 158,
+  "defence_ranged_standard": 158,
+  "defence_slash": 152,
+  "defence_stab": 113,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 140,
+  "id": 7938,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 130,
+  "max_hit": 23,
+  "name": "Revenant dark beast",
+  "ranged_bonus": 45,
+  "ranged_level": 135,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 157.0,
+  "strength_bonus": 60,
+  "strength_level": 110,
+  "version": null
+}

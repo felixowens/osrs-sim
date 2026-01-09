@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Verac the Defiled",
+  "attack_bonus": 0,
+  "attack_level": 100,
+  "attack_magic": -42,
+  "attack_ranged": -14,
+  "attack_speed": 5,
+  "attack_type": [
+    "stab"
+  ],
+  "attributes": [
+    "spectral"
+  ],
+  "boss": true,
+  "category": [
+    "Bosses"
+  ],
+  "combat_level": 115,
+  "defence_crush": 221,
+  "defence_level": 100,
+  "defence_magic": 0,
+  "defence_ranged": 225,
+  "defence_ranged_heavy": 225,
+  "defence_ranged_light": 225,
+  "defence_ranged_standard": 225,
+  "defence_slash": 230,
+  "defence_stab": 227,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 100,
+  "id": 1677,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 23,
+  "name": "Verac the Defiled",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 112.0,
+  "strength_bonus": 72,
+  "strength_level": 100,
+  "version": null
+}

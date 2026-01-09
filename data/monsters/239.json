@@ -1,0 +1,51 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "King Black Dragon",
+  "attack_bonus": 0,
+  "attack_level": 240,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "stab",
+    "dragonfire"
+  ],
+  "attributes": [
+    "dragon",
+    "fiery"
+  ],
+  "boss": true,
+  "category": [
+    "Black Dragons",
+    "Bosses"
+  ],
+  "combat_level": 276,
+  "defence_crush": 90,
+  "defence_level": 240,
+  "defence_magic": 80,
+  "defence_ranged": 70,
+  "defence_ranged_heavy": 40,
+  "defence_ranged_light": 70,
+  "defence_ranged_standard": 70,
+  "defence_slash": 90,
+  "defence_stab": 40,
+  "elemental_weakness": "Water",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 240,
+  "id": 239,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 240,
+  "max_hit": 65,
+  "name": "King Black Dragon",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 5,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 258.0,
+  "strength_bonus": 0,
+  "strength_level": 240,
+  "version": null
+}

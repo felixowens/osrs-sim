@@ -1,0 +1,51 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Brutal blue dragon#Ruins of Tapoyauik",
+  "attack_bonus": 0,
+  "attack_level": 298,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "slash",
+    "magic",
+    "dragonfire"
+  ],
+  "attributes": [
+    "dragon",
+    "fiery"
+  ],
+  "boss": false,
+  "category": [
+    "Blue Dragons"
+  ],
+  "combat_level": 271,
+  "defence_crush": 70,
+  "defence_level": 198,
+  "defence_magic": 60,
+  "defence_ranged": 50,
+  "defence_ranged_heavy": 10,
+  "defence_ranged_light": 50,
+  "defence_ranged_standard": 50,
+  "defence_slash": 70,
+  "defence_stab": 0,
+  "elemental_weakness": "Fire",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 245,
+  "id": 13795,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 198,
+  "max_hit": 50,
+  "name": "Brutal blue dragon",
+  "ranged_bonus": 0,
+  "ranged_level": 0,
+  "size": 4,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 257.0,
+  "strength_bonus": 0,
+  "strength_level": 198,
+  "version": "Ruins of Tapoyauik"
+}

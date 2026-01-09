@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Earthen Nagua#Normal",
+  "attack_bonus": 100,
+  "attack_level": 120,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "stab"
+  ],
+  "attributes": [
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Lesser Nagua"
+  ],
+  "combat_level": 128,
+  "defence_crush": 50,
+  "defence_level": 40,
+  "defence_magic": 60,
+  "defence_ranged": 150,
+  "defence_ranged_heavy": 150,
+  "defence_ranged_light": 150,
+  "defence_ranged_standard": 150,
+  "defence_slash": 50,
+  "defence_stab": 30,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 15,
+  "hitpoints": 160,
+  "id": 14420,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 40,
+  "max_hit": 13,
+  "name": "Earthen Nagua",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 2,
+  "slayer_level": 48,
+  "slayer_monster": true,
+  "slayer_xp": 165.0,
+  "strength_bonus": 0,
+  "strength_level": 120,
+  "version": "Normal"
+}

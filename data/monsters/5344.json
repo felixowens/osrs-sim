@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Undead one#Level 61",
+  "attack_bonus": 7,
+  "attack_level": 55,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "slash"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": false,
+  "category": [
+    "Skeletons"
+  ],
+  "combat_level": 61,
+  "defence_crush": 3,
+  "defence_level": 55,
+  "defence_magic": 1,
+  "defence_ranged": 4,
+  "defence_ranged_heavy": 4,
+  "defence_ranged_light": 4,
+  "defence_ranged_standard": 4,
+  "defence_slash": 5,
+  "defence_stab": 5,
+  "elemental_weakness": "Earth",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 47,
+  "id": 5344,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 0,
+  "max_hit": 7,
+  "name": "Undead one",
+  "ranged_bonus": 0,
+  "ranged_level": 0,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 73.0,
+  "strength_bonus": 5,
+  "strength_level": 55,
+  "version": "Level 61"
+}

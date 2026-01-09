@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Otherworldly being",
+  "attack_bonus": 0,
+  "attack_level": 56,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Otherworldly Beings"
+  ],
+  "combat_level": 64,
+  "defence_crush": 20,
+  "defence_level": 46,
+  "defence_magic": -5,
+  "defence_ranged": 15,
+  "defence_ranged_heavy": 15,
+  "defence_ranged_light": 15,
+  "defence_ranged_standard": 15,
+  "defence_slash": 10,
+  "defence_stab": 15,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 35,
+  "hitpoints": 66,
+  "id": 2843,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 7,
+  "name": "Otherworldly being",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 66.0,
+  "strength_bonus": 0,
+  "strength_level": 56,
+  "version": null
+}

@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Revenant hellhound",
+  "attack_bonus": 38,
+  "attack_level": 76,
+  "attack_magic": 30,
+  "attack_ranged": 0,
+  "attack_speed": 5,
+  "attack_type": [
+    "stab",
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Revenants",
+    "Ghosts"
+  ],
+  "combat_level": 90,
+  "defence_crush": 142,
+  "defence_level": 80,
+  "defence_magic": 62,
+  "defence_ranged": 140,
+  "defence_ranged_heavy": 140,
+  "defence_ranged_light": 110,
+  "defence_ranged_standard": 140,
+  "defence_slash": 140,
+  "defence_stab": 98,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 80,
+  "id": 7935,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 104,
+  "max_hit": 14,
+  "name": "Revenant hellhound",
+  "ranged_bonus": 0,
+  "ranged_level": 80,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 86.0,
+  "strength_bonus": 40,
+  "strength_level": 80,
+  "version": null
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Skeletal Wyvern#1",
+  "attack_bonus": 0,
+  "attack_level": 125,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 6,
+  "attack_type": [
+    "ranged",
+    "slash",
+    "icy breath"
+  ],
+  "attributes": [
+    "dragon"
+  ],
+  "boss": false,
+  "category": [
+    "Skeletal Wyverns"
+  ],
+  "combat_level": 140,
+  "defence_crush": 90,
+  "defence_level": 120,
+  "defence_magic": 80,
+  "defence_ranged": 140,
+  "defence_ranged_heavy": 140,
+  "defence_ranged_light": 140,
+  "defence_ranged_standard": 140,
+  "defence_slash": 90,
+  "defence_stab": 140,
+  "elemental_weakness": "Fire",
+  "elemental_weakness_percent": 25,
+  "hitpoints": 200,
+  "id": 468,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 125,
+  "max_hit": 50,
+  "name": "Skeletal Wyvern",
+  "ranged_bonus": 0,
+  "ranged_level": 120,
+  "size": 3,
+  "slayer_level": 72,
+  "slayer_monster": true,
+  "slayer_xp": 210.0,
+  "strength_bonus": 0,
+  "strength_level": 116,
+  "version": "1"
+}

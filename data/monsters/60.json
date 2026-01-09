@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Zombie (Wilderness)#Level 24, 2",
+  "attack_bonus": 5,
+  "attack_level": 19,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 5,
+  "attack_type": [
+    "slash"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": false,
+  "category": [
+    "Zombies"
+  ],
+  "combat_level": 24,
+  "defence_crush": 12,
+  "defence_level": 16,
+  "defence_magic": 10,
+  "defence_ranged": 11,
+  "defence_ranged_heavy": 11,
+  "defence_ranged_light": 11,
+  "defence_ranged_standard": 11,
+  "defence_slash": 8,
+  "defence_stab": 9,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 30,
+  "id": 60,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 3,
+  "name": "Zombie (Wilderness)",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 30.0,
+  "strength_bonus": 7,
+  "strength_level": 21,
+  "version": "Level 24, 2"
+}

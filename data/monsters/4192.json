@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Scarab Swarm#Normal",
+  "attack_bonus": 0,
+  "attack_level": 255,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 1,
+  "attack_type": [
+    "slash"
+  ],
+  "attributes": [
+    "kalphite"
+  ],
+  "boss": false,
+  "category": [
+    "Scabarites"
+  ],
+  "combat_level": 98,
+  "defence_crush": 5,
+  "defence_level": 30,
+  "defence_magic": 90,
+  "defence_ranged": 90,
+  "defence_ranged_heavy": 90,
+  "defence_ranged_light": 90,
+  "defence_ranged_standard": 90,
+  "defence_slash": 90,
+  "defence_stab": 90,
+  "elemental_weakness": "Fire",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 25,
+  "id": 4192,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 1,
+  "name": "Scarab Swarm",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 1.0,
+  "strength_bonus": 0,
+  "strength_level": 5,
+  "version": "Normal"
+}

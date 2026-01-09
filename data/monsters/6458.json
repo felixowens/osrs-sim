@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Zombie (Tarn's Lair)#Level 76",
+  "attack_bonus": 0,
+  "attack_level": 69,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": false,
+  "category": [
+    "Zombies"
+  ],
+  "combat_level": 76,
+  "defence_crush": 0,
+  "defence_level": 62,
+  "defence_magic": 0,
+  "defence_ranged": 10,
+  "defence_ranged_heavy": 10,
+  "defence_ranged_light": 10,
+  "defence_ranged_standard": 10,
+  "defence_slash": 20,
+  "defence_stab": 20,
+  "elemental_weakness": "Fire",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 71,
+  "id": 6458,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 9,
+  "name": "Zombie (Tarn's Lair)",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 71.0,
+  "strength_bonus": 10,
+  "strength_level": 65,
+  "version": "Level 76"
+}

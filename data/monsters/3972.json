@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Skeleton (Melzar's Maze)#1",
+  "attack_bonus": 15,
+  "attack_level": 15,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "slash"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": false,
+  "category": [
+    "Skeletons"
+  ],
+  "combat_level": 22,
+  "defence_crush": -2,
+  "defence_level": 17,
+  "defence_magic": 1,
+  "defence_ranged": 4,
+  "defence_ranged_heavy": 4,
+  "defence_ranged_light": 4,
+  "defence_ranged_standard": 4,
+  "defence_slash": 11,
+  "defence_stab": 9,
+  "elemental_weakness": "Earth",
+  "elemental_weakness_percent": 35,
+  "hitpoints": 29,
+  "id": 3972,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 3,
+  "name": "Skeleton (Melzar's Maze)",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 29.0,
+  "strength_bonus": 14,
+  "strength_level": 18,
+  "version": "1"
+}

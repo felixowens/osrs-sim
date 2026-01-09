@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Revenant hobgoblin",
+  "attack_bonus": 20,
+  "attack_level": 50,
+  "attack_magic": 5,
+  "attack_ranged": 25,
+  "attack_speed": 4,
+  "attack_type": [
+    "slash",
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Revenants",
+    "Ghosts"
+  ],
+  "combat_level": 60,
+  "defence_crush": 68,
+  "defence_level": 41,
+  "defence_magic": 30,
+  "defence_ranged": 50,
+  "defence_ranged_heavy": 20,
+  "defence_ranged_light": 50,
+  "defence_ranged_standard": 50,
+  "defence_slash": 60,
+  "defence_stab": 65,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 72,
+  "id": 7933,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 55,
+  "max_hit": 8,
+  "name": "Revenant hobgoblin",
+  "ranged_bonus": 0,
+  "ranged_level": 60,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 73.0,
+  "strength_bonus": 24,
+  "strength_level": 50,
+  "version": null
+}

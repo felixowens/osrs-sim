@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Flight Kilisa",
+  "attack_bonus": 0,
+  "attack_level": 124,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 5,
+  "attack_type": [
+    "slash"
+  ],
+  "attributes": [
+    "flying"
+  ],
+  "boss": false,
+  "category": [
+    "Aviansie"
+  ],
+  "combat_level": 159,
+  "defence_crush": 0,
+  "defence_level": 175,
+  "defence_magic": 0,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 0,
+  "defence_stab": 0,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 133,
+  "id": 3165,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 50,
+  "max_hit": 15,
+  "name": "Flight Kilisa",
+  "ranged_bonus": 0,
+  "ranged_level": 169,
+  "size": 2,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 132.0,
+  "strength_bonus": 14,
+  "strength_level": 118,
+  "version": null
+}

@@ -156,9 +156,7 @@ impl EngineState {
                     }
                     Stat::MaxHit => self.max_hit = mult(self.max_hit),
                     Stat::AttackRoll => self.attack_roll = mult(self.attack_roll),
-                    Stat::Accuracy => {
-                        self.accuracy = self.accuracy * (*num as f64) / (*den as f64)
-                    }
+                    Stat::Accuracy => self.accuracy = self.accuracy * (*num as f64) / (*den as f64),
                 }
             }
             Op::Add { stat, value } => match stat {

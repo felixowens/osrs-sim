@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Skeleton Hellhound (Vet'ion)",
+  "attack_bonus": 0,
+  "attack_level": 210,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": false,
+  "category": [
+    "Hellhounds",
+    "Skeletons"
+  ],
+  "combat_level": 194,
+  "defence_crush": 10,
+  "defence_level": 150,
+  "defence_magic": 180,
+  "defence_ranged": 266,
+  "defence_ranged_heavy": 266,
+  "defence_ranged_light": 266,
+  "defence_ranged_standard": 266,
+  "defence_slash": 103,
+  "defence_stab": 101,
+  "elemental_weakness": "Earth",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 30,
+  "id": 6613,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 26,
+  "name": "Skeleton Hellhound (Vet'ion)",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 2,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 33.0,
+  "strength_bonus": 0,
+  "strength_level": 250,
+  "version": null
+}

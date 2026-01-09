@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Wingman Skree",
+  "attack_bonus": 45,
+  "attack_level": 80,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 5,
+  "attack_type": [
+    "magic"
+  ],
+  "attributes": [
+    "flying"
+  ],
+  "boss": false,
+  "category": [
+    "Aviansie"
+  ],
+  "combat_level": 143,
+  "defence_crush": 0,
+  "defence_level": 160,
+  "defence_magic": 0,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 0,
+  "defence_stab": 0,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 121,
+  "id": 3163,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 150,
+  "max_hit": 16,
+  "name": "Wingman Skree",
+  "ranged_bonus": 0,
+  "ranged_level": 100,
+  "size": 2,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 124.0,
+  "strength_bonus": 25,
+  "strength_level": 50,
+  "version": null
+}

@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Greater Nechryael#Wilderness Slayer Cave",
+  "attack_bonus": 0,
+  "attack_level": 197,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "demon"
+  ],
+  "boss": false,
+  "category": [
+    "Nechryael"
+  ],
+  "combat_level": 200,
+  "defence_crush": 50,
+  "defence_level": 85,
+  "defence_magic": 0,
+  "defence_ranged": 50,
+  "defence_ranged_heavy": 50,
+  "defence_ranged_light": 50,
+  "defence_ranged_standard": 50,
+  "defence_slash": 50,
+  "defence_stab": 50,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 205,
+  "id": 11240,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 21,
+  "name": "Greater Nechryael",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 80,
+  "slayer_monster": true,
+  "slayer_xp": 210.0,
+  "strength_bonus": 0,
+  "strength_level": 197,
+  "version": "Wilderness Slayer Cave"
+}

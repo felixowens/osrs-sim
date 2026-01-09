@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Skeleton#Level 21, 1",
+  "attack_bonus": 0,
+  "attack_level": 17,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": false,
+  "category": [
+    "Skeletons"
+  ],
+  "combat_level": 21,
+  "defence_crush": -5,
+  "defence_level": 17,
+  "defence_magic": 0,
+  "defence_ranged": 5,
+  "defence_ranged_heavy": 5,
+  "defence_ranged_light": 5,
+  "defence_ranged_standard": 5,
+  "defence_slash": 5,
+  "defence_stab": 5,
+  "elemental_weakness": "Earth",
+  "elemental_weakness_percent": 35,
+  "hitpoints": 24,
+  "id": 74,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 3,
+  "name": "Skeleton",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 24.0,
+  "strength_bonus": 0,
+  "strength_level": 17,
+  "version": "Level 21, 1"
+}

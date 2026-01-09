@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Lizardman shaman (Chambers of Xeric)#Normal",
+  "attack_bonus": 58,
+  "attack_level": 130,
+  "attack_magic": 0,
+  "attack_ranged": 56,
+  "attack_speed": 4,
+  "attack_type": [
+    "melee",
+    "ranged"
+  ],
+  "attributes": [
+    "xerician"
+  ],
+  "boss": false,
+  "category": [
+    "Lizardmen"
+  ],
+  "combat_level": 0,
+  "defence_crush": 150,
+  "defence_level": 210,
+  "defence_magic": 160,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 160,
+  "defence_stab": 102,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 190,
+  "id": 7573,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 130,
+  "max_hit": 65,
+  "name": "Lizardman shaman (Chambers of Xeric)",
+  "ranged_bonus": 49,
+  "ranged_level": 130,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 0.0,
+  "strength_bonus": 52,
+  "strength_level": 130,
+  "version": "Normal"
+}

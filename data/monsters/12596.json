@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Branda the Fire Queen",
+  "attack_bonus": 150,
+  "attack_level": 300,
+  "attack_magic": 100,
+  "attack_ranged": 100,
+  "attack_speed": 7,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "fiery"
+  ],
+  "boss": false,
+  "category": [
+    "Fire Giants"
+  ],
+  "combat_level": 350,
+  "defence_crush": 0,
+  "defence_level": 100,
+  "defence_magic": 700,
+  "defence_ranged": 700,
+  "defence_ranged_heavy": 700,
+  "defence_ranged_light": 700,
+  "defence_ranged_standard": 700,
+  "defence_slash": 12,
+  "defence_stab": 12,
+  "elemental_weakness": "Water",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 600,
+  "id": 12596,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 100,
+  "magic_level": 100,
+  "max_hit": 26,
+  "name": "Branda the Fire Queen",
+  "ranged_bonus": 100,
+  "ranged_level": 150,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 735.0,
+  "strength_bonus": 0,
+  "strength_level": 250,
+  "version": null
+}

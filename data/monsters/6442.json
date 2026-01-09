@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Skeleton (Tarn's Lair)#Level 77",
+  "attack_bonus": 0,
+  "attack_level": 72,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": false,
+  "category": [
+    "Skeletons"
+  ],
+  "combat_level": 77,
+  "defence_crush": 0,
+  "defence_level": 60,
+  "defence_magic": 0,
+  "defence_ranged": 40,
+  "defence_ranged_heavy": 40,
+  "defence_ranged_light": 40,
+  "defence_ranged_standard": 40,
+  "defence_slash": 40,
+  "defence_stab": 50,
+  "elemental_weakness": "Earth",
+  "elemental_weakness_percent": 35,
+  "hitpoints": 80,
+  "id": 6442,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 7,
+  "name": "Skeleton (Tarn's Lair)",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 80.0,
+  "strength_bonus": 5,
+  "strength_level": 60,
+  "version": "Level 77"
+}

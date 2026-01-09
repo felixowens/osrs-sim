@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Revenant dragon",
+  "attack_bonus": 72,
+  "attack_level": 106,
+  "attack_magic": 61,
+  "attack_ranged": 60,
+  "attack_speed": 5,
+  "attack_type": [
+    "slash",
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Revenants",
+    "Ghosts"
+  ],
+  "combat_level": 135,
+  "defence_crush": 188,
+  "defence_level": 87,
+  "defence_magic": 101,
+  "defence_ranged": 197,
+  "defence_ranged_heavy": 157,
+  "defence_ranged_light": 197,
+  "defence_ranged_standard": 197,
+  "defence_slash": 206,
+  "defence_stab": 143,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 155,
+  "id": 7940,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 35,
+  "magic_level": 150,
+  "max_hit": 30,
+  "name": "Revenant dragon",
+  "ranged_bonus": 51,
+  "ranged_level": 151,
+  "size": 5,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 186.0,
+  "strength_bonus": 78,
+  "strength_level": 126,
+  "version": null
+}

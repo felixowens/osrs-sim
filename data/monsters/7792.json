@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Long-tailed Wyvern",
+  "attack_bonus": 0,
+  "attack_level": 125,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 6,
+  "attack_type": [
+    "slash",
+    "typeless magic",
+    "icy breath"
+  ],
+  "attributes": [
+    "dragon"
+  ],
+  "boss": false,
+  "category": [
+    "Fossil Island Wyverns"
+  ],
+  "combat_level": 152,
+  "defence_crush": 70,
+  "defence_level": 90,
+  "defence_magic": 140,
+  "defence_ranged": 120,
+  "defence_ranged_heavy": 70,
+  "defence_ranged_light": 120,
+  "defence_ranged_standard": 120,
+  "defence_slash": 70,
+  "defence_stab": 70,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 25,
+  "hitpoints": 200,
+  "id": 7792,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 90,
+  "max_hit": 13,
+  "name": "Long-tailed Wyvern",
+  "ranged_bonus": 0,
+  "ranged_level": 90,
+  "size": 3,
+  "slayer_level": 66,
+  "slayer_monster": true,
+  "slayer_xp": 205.0,
+  "strength_bonus": 0,
+  "strength_level": 120,
+  "version": null
+}

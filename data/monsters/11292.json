@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Spiritual mage#Zaros",
+  "attack_bonus": 0,
+  "attack_level": 1,
+  "attack_magic": 52,
+  "attack_ranged": 0,
+  "attack_speed": 5,
+  "attack_type": [
+    "magic"
+  ],
+  "attributes": [
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Spiritual Creatures"
+  ],
+  "combat_level": 182,
+  "defence_crush": 420,
+  "defence_level": 100,
+  "defence_magic": 200,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 400,
+  "defence_stab": 420,
+  "elemental_weakness": "Fire",
+  "elemental_weakness_percent": 200,
+  "hitpoints": 125,
+  "id": 11292,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 52,
+  "magic_level": 200,
+  "max_hit": 38,
+  "name": "Spiritual mage",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 83,
+  "slayer_monster": true,
+  "slayer_xp": 137.0,
+  "strength_bonus": 0,
+  "strength_level": 1,
+  "version": "Zaros"
+}

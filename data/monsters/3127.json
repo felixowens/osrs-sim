@@ -1,5 +1,6 @@
 {
-  "aggressive": true,
+  "_source": "osrs_wiki",
+  "_wiki_page": "TzTok-Jad",
   "attack_bonus": 0,
   "attack_level": 640,
   "attack_magic": 60,
@@ -7,60 +8,41 @@
   "attack_speed": 8,
   "attack_type": [
     "stab",
-    "ranged",
-    "magic"
+    "magic",
+    "ranged"
   ],
   "attributes": [],
+  "boss": false,
   "category": [
-    "tzhaar"
+    "TzHaar"
   ],
   "combat_level": 702,
   "defence_crush": 0,
   "defence_level": 480,
   "defence_magic": 0,
   "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
   "defence_slash": 0,
   "defence_stab": 0,
-  "drops": [
-    {
-      "id": 13225,
-      "members": true,
-      "name": "Tzrek-jad",
-      "noted": false,
-      "quantity": "1",
-      "rarity": 0.005,
-      "rolls": 1
-    }
-  ],
-  "duplicate": false,
-  "examine": "This is going to hurt...",
+  "elemental_weakness": "Water",
+  "elemental_weakness_percent": 40,
   "hitpoints": 250,
   "id": 3127,
   "immune_poison": false,
   "immune_venom": false,
-  "incomplete": true,
-  "last_updated": "2023-06-09",
   "magic_bonus": 0,
   "magic_level": 480,
   "max_hit": 97,
-  "members": true,
   "name": "TzTok-Jad",
-  "poisonous": false,
   "ranged_bonus": 0,
   "ranged_level": 960,
-  "release_date": "2005-10-04",
   "size": 5,
   "slayer_level": 1,
-  "slayer_masters": [
-    "chaeldar",
-    "nieve",
-    "duradel"
-  ],
   "slayer_monster": true,
   "slayer_xp": 25250.0,
   "strength_bonus": 0,
   "strength_level": 960,
-  "venomous": false,
-  "wiki_name": "TzTok-Jad",
-  "wiki_url": "https://oldschool.runescape.wiki/w/TzTok-Jad"
+  "version": null
 }

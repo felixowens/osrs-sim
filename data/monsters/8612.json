@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Drake",
+  "attack_bonus": 0,
+  "attack_level": 140,
+  "attack_magic": 0,
+  "attack_ranged": 40,
+  "attack_speed": 4,
+  "attack_type": [
+    "ranged",
+    "ranged melee",
+    "dragonfire"
+  ],
+  "attributes": [
+    "dragon"
+  ],
+  "boss": false,
+  "category": [
+    "Drakes"
+  ],
+  "combat_level": 192,
+  "defence_crush": 60,
+  "defence_level": 120,
+  "defence_magic": 20,
+  "defence_ranged": 100,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 100,
+  "defence_ranged_standard": 100,
+  "defence_slash": 60,
+  "defence_stab": 5,
+  "elemental_weakness": "Water",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 225,
+  "id": 8612,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 112,
+  "max_hit": 32,
+  "name": "Drake",
+  "ranged_bonus": 40,
+  "ranged_level": 140,
+  "size": 5,
+  "slayer_level": 84,
+  "slayer_monster": true,
+  "slayer_xp": 230.0,
+  "strength_bonus": 12,
+  "strength_level": 118,
+  "version": null
+}

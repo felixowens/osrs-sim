@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Spiritual warrior#Zaros",
+  "attack_bonus": 0,
+  "attack_level": 190,
+  "attack_magic": 0,
+  "attack_ranged": 110,
+  "attack_speed": 5,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Spiritual Creatures"
+  ],
+  "combat_level": 158,
+  "defence_crush": 80,
+  "defence_level": 100,
+  "defence_magic": 0,
+  "defence_ranged": 250,
+  "defence_ranged_heavy": 250,
+  "defence_ranged_light": 250,
+  "defence_ranged_standard": 250,
+  "defence_slash": 100,
+  "defence_stab": 100,
+  "elemental_weakness": "Fire",
+  "elemental_weakness_percent": 200,
+  "hitpoints": 100,
+  "id": 11290,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 50,
+  "max_hit": 40,
+  "name": "Spiritual warrior",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 68,
+  "slayer_monster": true,
+  "slayer_xp": 105.0,
+  "strength_bonus": 0,
+  "strength_level": 190,
+  "version": "Zaros"
+}

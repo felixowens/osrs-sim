@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Phrin Shade#Shade",
+  "attack_bonus": 0,
+  "attack_level": 64,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "shade",
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Shades"
+  ],
+  "combat_level": 60,
+  "defence_crush": 0,
+  "defence_level": 42,
+  "defence_magic": 0,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 0,
+  "defence_stab": 0,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 40,
+  "hitpoints": 56,
+  "id": 1280,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 0,
+  "max_hit": 6,
+  "name": "Phrin Shade",
+  "ranged_bonus": 0,
+  "ranged_level": 0,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 56.0,
+  "strength_bonus": 0,
+  "strength_level": 47,
+  "version": "Shade"
+}

@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Ranis Drakan#A Taste of Hope (1/4th health)",
+  "attack_bonus": 160,
+  "attack_level": 120,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 2,
+  "attack_type": [
+    "slash"
+  ],
+  "attributes": [
+    "vampyre3"
+  ],
+  "boss": false,
+  "category": [
+    "Vampyres"
+  ],
+  "combat_level": 233,
+  "defence_crush": 60,
+  "defence_level": 120,
+  "defence_magic": 60,
+  "defence_ranged": 60,
+  "defence_ranged_heavy": 60,
+  "defence_ranged_light": 60,
+  "defence_ranged_standard": 60,
+  "defence_slash": 60,
+  "defence_stab": 60,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 400,
+  "id": 8248,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 34,
+  "magic_level": 120,
+  "max_hit": 6,
+  "name": "Ranis Drakan",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 400.0,
+  "strength_bonus": -36,
+  "strength_level": 120,
+  "version": "A Taste of Hope (1/4th health)"
+}

@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Locust rider#Ranger (Quest)",
+  "attack_bonus": 0,
+  "attack_level": 105,
+  "attack_magic": 0,
+  "attack_ranged": 80,
+  "attack_speed": 6,
+  "attack_type": [
+    "ranged"
+  ],
+  "attributes": [
+    "kalphite"
+  ],
+  "boss": false,
+  "category": [
+    "Scabarites"
+  ],
+  "combat_level": 68,
+  "defence_crush": 50,
+  "defence_level": 50,
+  "defence_magic": 34,
+  "defence_ranged": 66,
+  "defence_ranged_heavy": 66,
+  "defence_ranged_light": 66,
+  "defence_ranged_standard": 66,
+  "defence_slash": 90,
+  "defence_stab": 50,
+  "elemental_weakness": "Fire",
+  "elemental_weakness_percent": 40,
+  "hitpoints": 90,
+  "id": 801,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 22,
+  "name": "Locust rider",
+  "ranged_bonus": 80,
+  "ranged_level": 90,
+  "size": 2,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 92.0,
+  "strength_bonus": 0,
+  "strength_level": 90,
+  "version": "Ranger (Quest)"
+}

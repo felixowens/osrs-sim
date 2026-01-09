@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Blue dragon#Task only, 2",
+  "attack_bonus": 0,
+  "attack_level": 95,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "slash",
+    "dragonfire"
+  ],
+  "attributes": [
+    "dragon",
+    "fiery"
+  ],
+  "boss": false,
+  "category": [
+    "Blue Dragons"
+  ],
+  "combat_level": 111,
+  "defence_crush": 70,
+  "defence_level": 95,
+  "defence_magic": 60,
+  "defence_ranged": 50,
+  "defence_ranged_heavy": 15,
+  "defence_ranged_light": 50,
+  "defence_ranged_standard": 50,
+  "defence_slash": 70,
+  "defence_stab": 0,
+  "elemental_weakness": "Water",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 105,
+  "id": 5879,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 50,
+  "name": "Blue dragon",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 4,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 105.0,
+  "strength_bonus": 0,
+  "strength_level": 95,
+  "version": "Task only, 2"
+}

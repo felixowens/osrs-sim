@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Ancient Wyvern",
+  "attack_bonus": 0,
+  "attack_level": 150,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 5,
+  "attack_type": [
+    "slash",
+    "typeless magic",
+    "icy breath"
+  ],
+  "attributes": [
+    "dragon"
+  ],
+  "boss": false,
+  "category": [
+    "Fossil Island Wyverns"
+  ],
+  "combat_level": 210,
+  "defence_crush": 70,
+  "defence_level": 150,
+  "defence_magic": 170,
+  "defence_ranged": 120,
+  "defence_ranged_heavy": 90,
+  "defence_ranged_light": 120,
+  "defence_ranged_standard": 120,
+  "defence_slash": 70,
+  "defence_stab": 50,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 35,
+  "hitpoints": 300,
+  "id": 7795,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 90,
+  "max_hit": 44,
+  "name": "Ancient Wyvern",
+  "ranged_bonus": 0,
+  "ranged_level": 90,
+  "size": 5,
+  "slayer_level": 82,
+  "slayer_monster": true,
+  "slayer_xp": 315.0,
+  "strength_bonus": 0,
+  "strength_level": 150,
+  "version": null
+}

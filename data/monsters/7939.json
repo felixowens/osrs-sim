@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Revenant knight",
+  "attack_bonus": 69,
+  "attack_level": 100,
+  "attack_magic": 55,
+  "attack_ranged": 55,
+  "attack_speed": 5,
+  "attack_type": [
+    "slash",
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Revenants",
+    "Ghosts"
+  ],
+  "combat_level": 126,
+  "defence_crush": 180,
+  "defence_level": 80,
+  "defence_magic": 95,
+  "defence_ranged": 190,
+  "defence_ranged_heavy": 150,
+  "defence_ranged_light": 190,
+  "defence_ranged_standard": 190,
+  "defence_slash": 200,
+  "defence_stab": 145,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 143,
+  "id": 7939,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 30,
+  "magic_level": 146,
+  "max_hit": 27,
+  "name": "Revenant knight",
+  "ranged_bonus": 45,
+  "ranged_level": 146,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 168.0,
+  "strength_bonus": 71,
+  "strength_level": 119,
+  "version": null
+}

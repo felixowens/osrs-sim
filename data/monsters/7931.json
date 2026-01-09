@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Revenant goblin",
+  "attack_bonus": 6,
+  "attack_level": 13,
+  "attack_magic": 37,
+  "attack_ranged": 21,
+  "attack_speed": 5,
+  "attack_type": [
+    "crush",
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Revenants",
+    "Ghosts"
+  ],
+  "combat_level": 15,
+  "defence_crush": 31,
+  "defence_level": 14,
+  "defence_magic": 1,
+  "defence_ranged": 31,
+  "defence_ranged_heavy": 31,
+  "defence_ranged_light": 31,
+  "defence_ranged_standard": 31,
+  "defence_slash": 28,
+  "defence_stab": 25,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 14,
+  "id": 7931,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 12,
+  "magic_level": 12,
+  "max_hit": 3,
+  "name": "Revenant goblin",
+  "ranged_bonus": 12,
+  "ranged_level": 15,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 14.0,
+  "strength_bonus": 8,
+  "strength_level": 14,
+  "version": null
+}

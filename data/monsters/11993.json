@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Calvar'ion#Normal",
+  "attack_bonus": 0,
+  "attack_level": 250,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 6,
+  "attack_type": [
+    "slash",
+    "magic"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": true,
+  "category": [
+    "Skeletons",
+    "Bosses"
+  ],
+  "combat_level": 264,
+  "defence_crush": -10,
+  "defence_level": 225,
+  "defence_magic": 198,
+  "defence_ranged": 211,
+  "defence_ranged_heavy": 211,
+  "defence_ranged_light": 211,
+  "defence_ranged_standard": 211,
+  "defence_slash": 128,
+  "defence_stab": 130,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 150,
+  "id": 11993,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 178,
+  "max_hit": 26,
+  "name": "Calvar'ion",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 322.0,
+  "strength_bonus": 0,
+  "strength_level": 250,
+  "version": "Normal"
+}

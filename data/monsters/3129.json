@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "K'ril Tsutsaroth",
+  "attack_bonus": 160,
+  "attack_level": 340,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 6,
+  "attack_type": [
+    "slash",
+    "magic"
+  ],
+  "attributes": [
+    "demon"
+  ],
+  "boss": true,
+  "category": [
+    "Bosses",
+    "Greater Demons"
+  ],
+  "combat_level": 650,
+  "defence_crush": 80,
+  "defence_level": 270,
+  "defence_magic": 80,
+  "defence_ranged": 80,
+  "defence_ranged_heavy": 80,
+  "defence_ranged_light": 80,
+  "defence_ranged_standard": 80,
+  "defence_slash": 80,
+  "defence_stab": 70,
+  "elemental_weakness": "Water",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 255,
+  "id": 3129,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 200,
+  "max_hit": 49,
+  "name": "K'ril Tsutsaroth",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 5,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 350.0,
+  "strength_bonus": 31,
+  "strength_level": 300,
+  "version": null
+}

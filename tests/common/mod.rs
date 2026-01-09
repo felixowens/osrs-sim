@@ -9,17 +9,12 @@ use osrs_sim::{
 use std::path::Path;
 
 /// Load fixtures and evaluate DPS, returning the result.
-pub fn eval_from_fixtures(
-    player_file: &str,
-    build_file: &str,
-    target_file: &str,
-) -> EvalResult {
+pub fn eval_from_fixtures(player_file: &str, build_file: &str, target_file: &str) -> EvalResult {
     let fixtures_dir = Path::new(env!("CARGO_MANIFEST_DIR")).join("fixtures");
     let data_dir = Path::new(env!("CARGO_MANIFEST_DIR")).join("data");
 
     // Load data store
-    let store = DataStore::load_from_dir(&data_dir)
-        .expect("Failed to load data store");
+    let store = DataStore::load_from_dir(&data_dir).expect("Failed to load data store");
 
     // Load player
     let player_path = fixtures_dir.join(player_file);
@@ -137,7 +132,7 @@ pub fn eval_from_fixtures(
 pub struct Expected {
     pub dps: f64,
     pub max_hit: u32,
-    pub accuracy: f64,  // as decimal, e.g. 0.2531 for 25.31%
+    pub accuracy: f64, // as decimal, e.g. 0.2531 for 25.31%
 }
 
 /// Assert that result matches expected values within tolerance
@@ -161,6 +156,8 @@ pub fn assert_result_matches(result: &EvalResult, expected: &Expected, test_name
     assert!(
         (result.dps - expected.dps).abs() < dps_tolerance,
         "[{}] DPS mismatch: expected {:.4}, got {:.4}",
-        test_name, expected.dps, result.dps
+        test_name,
+        expected.dps,
+        result.dps
     );
 }

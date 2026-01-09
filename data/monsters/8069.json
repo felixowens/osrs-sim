@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Zombie (Shayzien Crypts)#Magic",
+  "attack_bonus": 0,
+  "attack_level": 160,
+  "attack_magic": 20,
+  "attack_ranged": 0,
+  "attack_speed": 5,
+  "attack_type": [
+    "magic"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": false,
+  "category": [
+    "Zombies"
+  ],
+  "combat_level": 132,
+  "defence_crush": 35,
+  "defence_level": 62,
+  "defence_magic": 20,
+  "defence_ranged": 10,
+  "defence_ranged_heavy": 10,
+  "defence_ranged_light": 10,
+  "defence_ranged_standard": 10,
+  "defence_slash": 30,
+  "defence_stab": 35,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 54,
+  "id": 8069,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 180,
+  "max_hit": 19,
+  "name": "Zombie (Shayzien Crypts)",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 54.0,
+  "strength_bonus": 0,
+  "strength_level": 1,
+  "version": "Magic"
+}

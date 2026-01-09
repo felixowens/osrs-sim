@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Dusk#Second form",
+  "attack_bonus": 0,
+  "attack_level": 300,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 6,
+  "attack_type": [
+    "slash",
+    "ranged"
+  ],
+  "attributes": [
+    "golem"
+  ],
+  "boss": true,
+  "category": [
+    "Bosses",
+    "Gargoyles"
+  ],
+  "combat_level": 328,
+  "defence_crush": 0,
+  "defence_level": 150,
+  "defence_magic": 0,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 0,
+  "defence_stab": 0,
+  "elemental_weakness": "Earth",
+  "elemental_weakness_percent": 40,
+  "hitpoints": 450,
+  "id": 7887,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 250,
+  "max_hit": 65,
+  "name": "Dusk",
+  "ranged_bonus": 0,
+  "ranged_level": 250,
+  "size": 6,
+  "slayer_level": 75,
+  "slayer_monster": true,
+  "slayer_xp": 1350.0,
+  "strength_bonus": 0,
+  "strength_level": 250,
+  "version": "Second form"
+}

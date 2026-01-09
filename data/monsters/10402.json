@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Colossal Hydra",
+  "attack_bonus": 0,
+  "attack_level": 1,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 6,
+  "attack_type": [
+    "magic",
+    "ranged"
+  ],
+  "attributes": [
+    "dragon"
+  ],
+  "boss": false,
+  "category": [
+    "Hydras"
+  ],
+  "combat_level": 309,
+  "defence_crush": 200,
+  "defence_level": 100,
+  "defence_magic": 200,
+  "defence_ranged": 20,
+  "defence_ranged_heavy": 20,
+  "defence_ranged_light": 20,
+  "defence_ranged_standard": 20,
+  "defence_slash": 200,
+  "defence_stab": 100,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 750,
+  "id": 10402,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 250,
+  "max_hit": 34,
+  "name": "Colossal Hydra",
+  "ranged_bonus": 0,
+  "ranged_level": 250,
+  "size": 5,
+  "slayer_level": 95,
+  "slayer_monster": true,
+  "slayer_xp": 8625.0,
+  "strength_bonus": 0,
+  "strength_level": 1,
+  "version": null
+}

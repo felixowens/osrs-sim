@@ -1,0 +1,51 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Kree'arra",
+  "attack_bonus": 136,
+  "attack_level": 300,
+  "attack_magic": 0,
+  "attack_ranged": 120,
+  "attack_speed": 3,
+  "attack_type": [
+    "ranged",
+    "ranged magic",
+    "magical melee"
+  ],
+  "attributes": [
+    "flying"
+  ],
+  "boss": true,
+  "category": [
+    "Aviansie",
+    "Bosses"
+  ],
+  "combat_level": 580,
+  "defence_crush": 180,
+  "defence_level": 260,
+  "defence_magic": 200,
+  "defence_ranged": 200,
+  "defence_ranged_heavy": 200,
+  "defence_ranged_light": 200,
+  "defence_ranged_standard": 200,
+  "defence_slash": 180,
+  "defence_stab": 180,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 255,
+  "id": 3162,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 200,
+  "max_hit": 69,
+  "name": "Kree'arra",
+  "ranged_bonus": 50,
+  "ranged_level": 380,
+  "size": 5,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 357.0,
+  "strength_bonus": 12,
+  "strength_level": 200,
+  "version": null
+}

@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Skeletal Mystic#Normal",
+  "attack_bonus": 85,
+  "attack_level": 140,
+  "attack_magic": 40,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "magic",
+    "melee"
+  ],
+  "attributes": [
+    "undead",
+    "xerician"
+  ],
+  "boss": false,
+  "category": [
+    "Skeletons"
+  ],
+  "combat_level": 0,
+  "defence_crush": 75,
+  "defence_level": 187,
+  "defence_magic": 140,
+  "defence_ranged": 115,
+  "defence_ranged_heavy": 75,
+  "defence_ranged_light": 115,
+  "defence_ranged_standard": 115,
+  "defence_slash": 155,
+  "defence_stab": 155,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 160,
+  "id": 7604,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 38,
+  "magic_level": 140,
+  "max_hit": 0,
+  "name": "Skeletal Mystic",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 2,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 160.0,
+  "strength_bonus": 50,
+  "strength_level": 140,
+  "version": "Normal"
+}

@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Sulphur Nagua",
+  "attack_bonus": 90,
+  "attack_level": 90,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "slash"
+  ],
+  "attributes": [
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Lesser Nagua"
+  ],
+  "combat_level": 98,
+  "defence_crush": 10,
+  "defence_level": 40,
+  "defence_magic": 200,
+  "defence_ranged": 200,
+  "defence_ranged_heavy": 200,
+  "defence_ranged_light": 200,
+  "defence_ranged_standard": 200,
+  "defence_slash": 50,
+  "defence_stab": 50,
+  "elemental_weakness": "air",
+  "elemental_weakness_percent": 15,
+  "hitpoints": 100,
+  "id": 13033,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 50,
+  "max_hit": 11,
+  "name": "Sulphur Nagua",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 2,
+  "slayer_level": 48,
+  "slayer_monster": true,
+  "slayer_xp": 105.0,
+  "strength_bonus": 0,
+  "strength_level": 105,
+  "version": null
+}

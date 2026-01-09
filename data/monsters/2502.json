@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Zombie (Stronghold of Security)#Level 30, 2",
+  "attack_bonus": 5,
+  "attack_level": 25,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 5,
+  "attack_type": [
+    "slash"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": false,
+  "category": [
+    "Zombies"
+  ],
+  "combat_level": 30,
+  "defence_crush": 0,
+  "defence_level": 20,
+  "defence_magic": 0,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 0,
+  "defence_stab": 0,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 30,
+  "id": 2502,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 4,
+  "name": "Zombie (Stronghold of Security)",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 30.0,
+  "strength_bonus": 0,
+  "strength_level": 29,
+  "version": "Level 30, 2"
+}

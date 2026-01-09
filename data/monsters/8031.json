@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Rune dragon",
+  "attack_bonus": 0,
+  "attack_level": 284,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "slash",
+    "ranged",
+    "magic",
+    "dragonfire"
+  ],
+  "attributes": [
+    "dragon",
+    "fiery"
+  ],
+  "boss": false,
+  "category": [
+    "Metal Dragons"
+  ],
+  "combat_level": 380,
+  "defence_crush": 90,
+  "defence_level": 276,
+  "defence_magic": 30,
+  "defence_ranged": 95,
+  "defence_ranged_heavy": 50,
+  "defence_ranged_light": 95,
+  "defence_ranged_standard": 95,
+  "defence_slash": 115,
+  "defence_stab": 20,
+  "elemental_weakness": "Earth",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 330,
+  "id": 8031,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 16,
+  "magic_level": 196,
+  "max_hit": 50,
+  "name": "Rune dragon",
+  "ranged_bonus": 14,
+  "ranged_level": 246,
+  "size": 5,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 363.0,
+  "strength_bonus": 0,
+  "strength_level": 284,
+  "version": null
+}

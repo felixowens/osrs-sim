@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Spiritual ranger#Saradomin",
+  "attack_bonus": 0,
+  "attack_level": 1,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "ranged"
+  ],
+  "attributes": [
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Spiritual Creatures"
+  ],
+  "combat_level": 122,
+  "defence_crush": 13,
+  "defence_level": 100,
+  "defence_magic": 16,
+  "defence_ranged": 23,
+  "defence_ranged_heavy": 23,
+  "defence_ranged_light": 23,
+  "defence_ranged_standard": 23,
+  "defence_slash": 5,
+  "defence_stab": 3,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 106,
+  "id": 2211,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 16,
+  "name": "Spiritual ranger",
+  "ranged_bonus": 0,
+  "ranged_level": 146,
+  "size": 1,
+  "slayer_level": 63,
+  "slayer_monster": true,
+  "slayer_xp": 106.0,
+  "strength_bonus": 0,
+  "strength_level": 1,
+  "version": "Saradomin"
+}

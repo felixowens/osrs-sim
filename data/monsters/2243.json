@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Spiritual warrior#Bandos",
+  "attack_bonus": 29,
+  "attack_level": 116,
+  "attack_magic": 0,
+  "attack_ranged": 110,
+  "attack_speed": 5,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Spiritual Creatures"
+  ],
+  "combat_level": 134,
+  "defence_crush": 13,
+  "defence_level": 100,
+  "defence_magic": 5,
+  "defence_ranged": 13,
+  "defence_ranged_heavy": 13,
+  "defence_ranged_light": 13,
+  "defence_ranged_standard": 13,
+  "defence_slash": 14,
+  "defence_stab": 12,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 131,
+  "id": 2243,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 16,
+  "name": "Spiritual warrior",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 68,
+  "slayer_monster": true,
+  "slayer_xp": 135.0,
+  "strength_bonus": 13,
+  "strength_level": 120,
+  "version": "Bandos"
+}

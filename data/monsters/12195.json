@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Duke Sucellus#Quest, Awake",
+  "attack_bonus": 200,
+  "attack_level": 250,
+  "attack_magic": 150,
+  "attack_ranged": 0,
+  "attack_speed": 6,
+  "attack_type": [
+    "magic",
+    "crush"
+  ],
+  "attributes": [
+    "demon"
+  ],
+  "boss": true,
+  "category": [
+    "Bosses"
+  ],
+  "combat_level": 538,
+  "defence_crush": 160,
+  "defence_level": 215,
+  "defence_magic": 400,
+  "defence_ranged": 300,
+  "defence_ranged_heavy": 300,
+  "defence_ranged_light": 300,
+  "defence_ranged_standard": 300,
+  "defence_slash": 30,
+  "defence_stab": 210,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 330,
+  "id": 12195,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 10,
+  "magic_level": 230,
+  "max_hit": 99,
+  "name": "Duke Sucellus",
+  "ranged_bonus": 0,
+  "ranged_level": 0,
+  "size": 7,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 360.0,
+  "strength_bonus": 16,
+  "strength_level": 280,
+  "version": "Quest, Awake"
+}

@@ -1,0 +1,52 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Revenant imp",
+  "attack_bonus": 0,
+  "attack_level": 5,
+  "attack_magic": 5,
+  "attack_ranged": 0,
+  "attack_speed": 5,
+  "attack_type": [
+    "stab",
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Revenants",
+    "Ghosts"
+  ],
+  "combat_level": 7,
+  "defence_crush": 0,
+  "defence_level": 4,
+  "defence_magic": 5,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 0,
+  "defence_stab": 0,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 30,
+  "hitpoints": 10,
+  "id": 7881,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 9,
+  "max_hit": 2,
+  "name": "Revenant imp",
+  "ranged_bonus": 0,
+  "ranged_level": 5,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 10.0,
+  "strength_bonus": 0,
+  "strength_level": 5,
+  "version": null
+}

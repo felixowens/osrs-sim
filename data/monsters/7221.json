@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Scurrius#Group",
+  "attack_bonus": 150,
+  "attack_level": 300,
+  "attack_magic": 150,
+  "attack_ranged": 150,
+  "attack_speed": 4,
+  "attack_type": [
+    "magic",
+    "ranged",
+    "melee"
+  ],
+  "attributes": [
+    "rat"
+  ],
+  "boss": false,
+  "category": [
+    "Rats"
+  ],
+  "combat_level": 250,
+  "defence_crush": 20,
+  "defence_level": 100,
+  "defence_magic": 10,
+  "defence_ranged": 20,
+  "defence_ranged_heavy": 20,
+  "defence_ranged_light": 20,
+  "defence_ranged_standard": 20,
+  "defence_slash": 20,
+  "defence_stab": 20,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 1500,
+  "id": 7221,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 20,
+  "magic_level": 100,
+  "max_hit": 24,
+  "name": "Scurrius",
+  "ranged_bonus": 10,
+  "ranged_level": 100,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 2137.0,
+  "strength_bonus": 10,
+  "strength_level": 100,
+  "version": "Group"
+}

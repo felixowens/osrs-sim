@@ -1,0 +1,50 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Taloned Wyvern",
+  "attack_bonus": 0,
+  "attack_level": 120,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 6,
+  "attack_type": [
+    "slash",
+    "typeless magic",
+    "icy breath"
+  ],
+  "attributes": [
+    "dragon"
+  ],
+  "boss": false,
+  "category": [
+    "Fossil Island Wyverns"
+  ],
+  "combat_level": 147,
+  "defence_crush": 70,
+  "defence_level": 90,
+  "defence_magic": 140,
+  "defence_ranged": 70,
+  "defence_ranged_heavy": 120,
+  "defence_ranged_light": 120,
+  "defence_ranged_standard": 70,
+  "defence_slash": 70,
+  "defence_stab": 50,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 35,
+  "hitpoints": 200,
+  "id": 7793,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 90,
+  "max_hit": 55,
+  "name": "Taloned Wyvern",
+  "ranged_bonus": 0,
+  "ranged_level": 90,
+  "size": 3,
+  "slayer_level": 66,
+  "slayer_monster": true,
+  "slayer_xp": 205.0,
+  "strength_bonus": 0,
+  "strength_level": 110,
+  "version": null
+}

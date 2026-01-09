@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Screaming banshee",
+  "attack_bonus": 0,
+  "attack_level": 65,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "magical melee"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Banshees"
+  ],
+  "combat_level": 70,
+  "defence_crush": 13,
+  "defence_level": 56,
+  "defence_magic": 0,
+  "defence_ranged": 13,
+  "defence_ranged_heavy": 13,
+  "defence_ranged_light": 13,
+  "defence_ranged_standard": 13,
+  "defence_slash": 13,
+  "defence_stab": 13,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 40,
+  "hitpoints": 61,
+  "id": 7390,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 7,
+  "name": "Screaming banshee",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 3,
+  "slayer_level": 15,
+  "slayer_monster": true,
+  "slayer_xp": 610.0,
+  "strength_bonus": 0,
+  "strength_level": 61,
+  "version": null
+}

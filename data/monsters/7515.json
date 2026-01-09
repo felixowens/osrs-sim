@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Porazdir",
+  "attack_bonus": 0,
+  "attack_level": 250,
+  "attack_magic": 80,
+  "attack_ranged": 0,
+  "attack_speed": 6,
+  "attack_type": [
+    "magic",
+    "slash"
+  ],
+  "attributes": [
+    "demon"
+  ],
+  "boss": false,
+  "category": [
+    "Black Demons"
+  ],
+  "combat_level": 235,
+  "defence_crush": 200,
+  "defence_level": 100,
+  "defence_magic": -60,
+  "defence_ranged": 200,
+  "defence_ranged_heavy": 200,
+  "defence_ranged_light": 200,
+  "defence_ranged_standard": 200,
+  "defence_slash": 200,
+  "defence_stab": 200,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 320,
+  "id": 7515,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 80,
+  "magic_level": 180,
+  "max_hit": 43,
+  "name": "Porazdir",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 3,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 376.0,
+  "strength_bonus": 0,
+  "strength_level": 150,
+  "version": null
+}

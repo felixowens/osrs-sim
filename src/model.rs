@@ -423,9 +423,7 @@ impl Default for EvalResult {
 impl PlayerInput {
     pub fn validate_basic(&self) -> Result<(), String> {
         if self.schema_version != SCHEMA_VERSION_V1 {
-            return Err(format!(
-                "player.schema_version must be {SCHEMA_VERSION_V1}"
-            ));
+            return Err(format!("player.schema_version must be {SCHEMA_VERSION_V1}"));
         }
         Ok(())
     }
@@ -445,16 +443,12 @@ impl TargetInput {
         match self {
             TargetInput::ById(t) => {
                 if t.schema_version != SCHEMA_VERSION_V1 {
-                    return Err(format!(
-                        "target.schema_version must be {SCHEMA_VERSION_V1}"
-                    ));
+                    return Err(format!("target.schema_version must be {SCHEMA_VERSION_V1}"));
                 }
             }
             TargetInput::Custom(t) => {
                 if t.schema_version != SCHEMA_VERSION_V1 {
-                    return Err(format!(
-                        "target.schema_version must be {SCHEMA_VERSION_V1}"
-                    ));
+                    return Err(format!("target.schema_version must be {SCHEMA_VERSION_V1}"));
                 }
             }
         }

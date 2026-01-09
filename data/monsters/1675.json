@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Karil the Tainted",
+  "attack_bonus": 0,
+  "attack_level": 1,
+  "attack_magic": -26,
+  "attack_ranged": 134,
+  "attack_speed": 4,
+  "attack_type": [
+    "ranged"
+  ],
+  "attributes": [
+    "spectral"
+  ],
+  "boss": true,
+  "category": [
+    "Bosses"
+  ],
+  "combat_level": 98,
+  "defence_crush": 90,
+  "defence_level": 100,
+  "defence_magic": 106,
+  "defence_ranged": 100,
+  "defence_ranged_heavy": 100,
+  "defence_ranged_light": 100,
+  "defence_ranged_standard": 100,
+  "defence_slash": 71,
+  "defence_stab": 79,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 100,
+  "id": 1675,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 20,
+  "name": "Karil the Tainted",
+  "ranged_bonus": 55,
+  "ranged_level": 100,
+  "size": 1,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 100.0,
+  "strength_bonus": 0,
+  "strength_level": 1,
+  "version": null
+}

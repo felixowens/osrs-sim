@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Aberrant spectre",
+  "attack_bonus": 0,
+  "attack_level": 1,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Aberrant Spectres"
+  ],
+  "combat_level": 96,
+  "defence_crush": 20,
+  "defence_level": 90,
+  "defence_magic": 0,
+  "defence_ranged": -15,
+  "defence_ranged_heavy": 15,
+  "defence_ranged_light": 15,
+  "defence_ranged_standard": -15,
+  "defence_slash": 20,
+  "defence_stab": 20,
+  "elemental_weakness": "Air",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 90,
+  "id": 2,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 105,
+  "max_hit": 14,
+  "name": "Aberrant spectre",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 2,
+  "slayer_level": 60,
+  "slayer_monster": true,
+  "slayer_xp": 90.0,
+  "strength_bonus": 0,
+  "strength_level": 1,
+  "version": null
+}

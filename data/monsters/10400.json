@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Guardian Drake",
+  "attack_bonus": 0,
+  "attack_level": 270,
+  "attack_magic": 0,
+  "attack_ranged": 40,
+  "attack_speed": 4,
+  "attack_type": [
+    "ranged melee",
+    "ranged"
+  ],
+  "attributes": [
+    "dragon"
+  ],
+  "boss": false,
+  "category": [
+    "Drakes"
+  ],
+  "combat_level": 376,
+  "defence_crush": 100,
+  "defence_level": 200,
+  "defence_magic": 20,
+  "defence_ranged": 150,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 150,
+  "defence_ranged_standard": 150,
+  "defence_slash": 100,
+  "defence_stab": 20,
+  "elemental_weakness": "Water",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 590,
+  "id": 10400,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 300,
+  "max_hit": 39,
+  "name": "Guardian Drake",
+  "ranged_bonus": 0,
+  "ranged_level": 240,
+  "size": 5,
+  "slayer_level": 84,
+  "slayer_monster": true,
+  "slayer_xp": 7087.0,
+  "strength_bonus": 12,
+  "strength_level": 280,
+  "version": null
+}

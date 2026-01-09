@@ -1,0 +1,49 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Alchemical Hydra#Extinguished",
+  "attack_bonus": 0,
+  "attack_level": 100,
+  "attack_magic": 45,
+  "attack_ranged": 45,
+  "attack_speed": 4,
+  "attack_type": [
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "dragon"
+  ],
+  "boss": false,
+  "category": [
+    "Hydras"
+  ],
+  "combat_level": 426,
+  "defence_crush": 150,
+  "defence_level": 100,
+  "defence_magic": 150,
+  "defence_ranged": 45,
+  "defence_ranged_heavy": 45,
+  "defence_ranged_light": 45,
+  "defence_ranged_standard": 45,
+  "defence_slash": 150,
+  "defence_stab": 75,
+  "elemental_weakness": "Earth",
+  "elemental_weakness_percent": 50,
+  "hitpoints": 1100,
+  "id": 8621,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 20,
+  "magic_level": 260,
+  "max_hit": 55,
+  "name": "Alchemical Hydra",
+  "ranged_bonus": 20,
+  "ranged_level": 260,
+  "size": 6,
+  "slayer_level": 95,
+  "slayer_monster": true,
+  "slayer_xp": 1320.0,
+  "strength_bonus": 0,
+  "strength_level": 100,
+  "version": "Extinguished"
+}

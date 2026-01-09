@@ -1,0 +1,48 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Crawling Hand#Level 8 (2)",
+  "attack_bonus": 0,
+  "attack_level": 8,
+  "attack_magic": 0,
+  "attack_ranged": 0,
+  "attack_speed": 4,
+  "attack_type": [
+    "crush"
+  ],
+  "attributes": [
+    "undead"
+  ],
+  "boss": false,
+  "category": [
+    "Crawling Hands"
+  ],
+  "combat_level": 8,
+  "defence_crush": 0,
+  "defence_level": 4,
+  "defence_magic": 0,
+  "defence_ranged": 0,
+  "defence_ranged_heavy": 0,
+  "defence_ranged_light": 0,
+  "defence_ranged_standard": 0,
+  "defence_slash": 0,
+  "defence_stab": 0,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 16,
+  "id": 449,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 0,
+  "magic_level": 1,
+  "max_hit": 1,
+  "name": "Crawling Hand",
+  "ranged_bonus": 0,
+  "ranged_level": 1,
+  "size": 1,
+  "slayer_level": 5,
+  "slayer_monster": true,
+  "slayer_xp": 16.0,
+  "strength_bonus": 0,
+  "strength_level": 4,
+  "version": "Level 8 (2)"
+}

@@ -1,0 +1,51 @@
+{
+  "_source": "osrs_wiki",
+  "_wiki_page": "Revenant maledictus",
+  "attack_bonus": 72,
+  "attack_level": 106,
+  "attack_magic": 60,
+  "attack_ranged": 265,
+  "attack_speed": 5,
+  "attack_type": [
+    "ranged",
+    "magic"
+  ],
+  "attributes": [
+    "undead",
+    "spectral"
+  ],
+  "boss": false,
+  "category": [
+    "Revenants",
+    "Ghosts"
+  ],
+  "combat_level": 397,
+  "defence_crush": 188,
+  "defence_level": 90,
+  "defence_magic": 101,
+  "defence_ranged": 231,
+  "defence_ranged_heavy": 231,
+  "defence_ranged_light": 231,
+  "defence_ranged_standard": 231,
+  "defence_slash": 206,
+  "defence_stab": 201,
+  "elemental_weakness": null,
+  "elemental_weakness_percent": 0,
+  "hitpoints": 1250,
+  "id": 11246,
+  "immune_poison": false,
+  "immune_venom": false,
+  "magic_bonus": 60,
+  "magic_level": 130,
+  "max_hit": 30,
+  "name": "Revenant maledictus",
+  "ranged_bonus": 60,
+  "ranged_level": 130,
+  "size": 5,
+  "slayer_level": 1,
+  "slayer_monster": true,
+  "slayer_xp": 920.0,
+  "strength_bonus": 78,
+  "strength_level": 126,
+  "version": null
+}
