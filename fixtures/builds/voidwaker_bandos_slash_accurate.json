@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "equipment": {
+    "weapon": 27690,
+    "body": 11832,
+    "legs": 11834
+  },
+  "style": {
+    "combat": "melee",
+    "attack_type": "slash",
+    "stance": "accurate"
+  }
+}

@@ -6,3 +6,8 @@ description = "OSRS DPS sim and gear optimizer"
 license = "MIT OR Apache-2.0"
 
 [dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+clap = { version = "4", features = ["derive"] }
+thiserror = "2"
+anyhow = "1"

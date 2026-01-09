@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "custom": {
+    "name": "Training Dummy",
+    "levels": {
+      "defence": 1,
+      "hitpoints": 100
+    },
+    "defence_bonuses": {
+      "stab": 0,
+      "slash": 0,
+      "crush": 0,
+      "magic": 0,
+      "ranged": 0
+    },
+    "attributes": []
+  }
+}

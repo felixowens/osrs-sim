@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "skills": {
+    "attack": 99,
+    "strength": 99,
+    "defence": 99,
+    "ranged": 99,
+    "magic": 99,
+    "prayer": 99,
+    "hitpoints": 99
+  },
+  "prayers": {},
+  "boosts": {
+    "melee": { "type": "super_strength" }
+  },
+  "flags": {
+    "on_slayer_task": false,
+    "in_wilderness": false
+  }
+}
