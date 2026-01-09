@@ -1,0 +1,5 @@
+{
+  "base_url": "https://raw.githubusercontent.com/0xNeffarion/osrsreboxed-db/refs/heads/master/docs/items-json",
+  "out_dir": "data/items",
+  "allow_missing": true
+}
