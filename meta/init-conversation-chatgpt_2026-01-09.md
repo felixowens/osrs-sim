@@ -1086,3 +1086,271 @@ snapshot tests for explain output
 If you want, I can sketch a minimal lib.rs public API (just the structs + evaluate() signature) that locks in the architecture before you write any implementation.
 
 ---
+
+### **ChatGPT**
+
+Sounds good but you let me know what you think is idiomatic
+
+---
+
+### **ChatGPT**
+
+You’re solving a huge, constrained combinatorial search where the objective (DPS) is nonlinear + discontinuous (floors, caps, conditional effects). If you try to “iterate every combination”, it will always be too slow.
+The winning approach is:
+
+make evaluation extremely cheap
+
+shrink the search space with provably-safe pruning (dominance + bounds)
+
+use a search strategy that finds top results fast (beam / branch-and-bound), and parallelise at the right level
+
+Below are the most useful heuristics + some research-y framing that’s actually applicable.
+
+1) Make DPS evaluation “hot loop” fast
+Before optimizer tricks, you need to be able to evaluate millions of candidate builds/sec.
+Practical Rust things that matter a lot:
+
+Pre-resolve items into compact structs (no hash maps in the inner loop).
+
+Represent bonuses as fixed-size arrays or a struct of small ints; sum by direct field adds.
+
+Precompute per-weapon: attack\_type, speed\_ticks, style bonuses, and a fast path for “standard melee hit”.
+
+Precompute per-target: defence roll inputs, tag bitsets, any immutable flags.
+
+Make effects evaluation cheap:
+
+Evaluate conditions with bitsets / boolean flags, not strings.
+
+Store effects per stage in contiguous vectors; avoid allocations.
+
+Cache expensive derived values when they repeat (more on caching below).
+
+If evaluation is slow, the optimizer will never be good.
+
+2) Shrink candidates with dominance / Pareto pruning (biggest win)
+Most items are simply worse than others given a target + style.
+Dominance within a slot (safe pruning)
+For a fixed combat mode (e.g., melee slash) and constraints (requirements met, allowed items), define a vector of relevant “resources”, e.g.:
+
+offensive: atk\_slash, str\_melee
+
+optional: prayer, maybe atk\_stab if you allow style switching
+
+cost if you have a budget constraint
+
+Item A dominates item B if:
+
+A is ≥ B in all relevant stats, and
+
+A is strictly > in at least one stat, and
+
+A is ≤ B in cost (if cost matters), and
+
+A doesn’t violate extra constraints that B satisfies (two-handed, etc.)
+
+Then B can be deleted without changing the optimum.
+Do this per:
+
+slot
+
+attack type / style family
+
+“mode flags” that change relevance (on-task, undead, demon, etc.) if needed
+
+This typically reduces thousands of items to tens per slot.
+Keep a Pareto frontier, not “top K by score”
+A naive “top 50 by dps proxy” can throw away weird-but-best combos (e.g., high accuracy but low strength). A Pareto frontier preserves those edge cases and is still small.
+
+3) Weapon-first branching (turns 1 giant search into many small searches)
+Weapons dominate:
+
+attack type (stab/slash/crush/ranged/magic)
+
+speed
+
+special scaling
+
+So:
+
+Enumerate candidate weapons (after dominance pruning).
+
+For each weapon, solve the “rest of gear” problem.
+
+This also makes parallelisation trivial: parallel over weapons.
+
+4) Use a bound + branch-and-bound (exact-ish) or beam search (fast-ish)
+Option A: Branch-and-bound with an admissible upper bound
+This can be exact if your bound is safe.
+You need an upper bound on the best DPS achievable by completing a partial build.
+Easy upper bound pattern:
+
+For remaining slots, precompute the maximum possible contribution to each relevant stat (atk\_bonus, str\_bonus, prayer, etc.) given constraints.
+
+Compute an optimistic DPS using:
+
+those max stats
+
+best-case multipliers (assume any conditional boost applies)
+
+relax floors (use continuous math + ceiling to stay “upper”)
+
+Because DPS is monotone in the usual inputs (more accuracy/strength won’t reduce DPS), this gives a safe bound.
+Then in DFS:
+
+maintain the best found so far
+
+prune any partial build whose bound ≤ best
+
+This can be extremely effective once your per-slot candidate lists are small.
+Option B: Beam search (usually the best MVP choice)
+Beam search keeps only the top K partial builds at each depth (slot added).
+
+fast to implement
+
+finds very good solutions quickly
+
+not guaranteed optimal, but often indistinguishable from optimal in practice
+
+If you later need “provably optimal”, switch to branch-and-bound once your pruning/bounds are solid.
+
+5) Meet-in-the-middle + frontiers (research-y but very practical)
+When the number of slots is large, a powerful trick is:
+
+split slots into two groups (e.g., 5 and 6)
+
+enumerate all combinations in each half (after dominance pruning)
+
+reduce each half to a Pareto frontier on aggregated stats
+
+then “join” the two halves to find best DPS
+
+This is classic meet-in-the-middle for combinatorial optimisation.
+It works particularly well because after pruning, each slot might have ~20 candidates:
+
+naive full combo: 201120^{11}2011 impossible
+
+half enumeration: 205=3.2M20^5=3.2M205=3.2M and 206=64M20^6=64M206=64M (still heavy)
+
+but frontiers can collapse those massively (often down to thousands or less)
+
+It’s more engineering than beam search, but it scales very well and stays deterministic.
+
+6) Caching: memoise by “aggregated stats”, not by item IDs
+A lot of different item combinations produce the same relevant totals (or close enough), especially once you’re only caring about a couple of bonuses.
+Cache at the level of:
+
+weapon id + style
+
+total offensive bonuses
+
+flags (on task, target tags, prayers)
+
+maybe effective level inputs
+
+Key idea: cache the expensive part:
+
+max hit computation
+
+accuracy computation
+
+effect application results if they depend only on totals + flags
+
+In Rust, you can do:
+
+a small FxHashMap / hashbrown cache
+
+LRU if you need memory bounds
+
+per-thread caches (avoid lock contention in parallel search)
+
+7) Parallelism: parallelise at coarse grain
+Use Rayon, but don’t spawn tasks per combination.
+Good parallel boundaries:
+
+per weapon
+
+per attack style
+
+per target/phase
+
+Bad boundaries:
+
+per partial build node (too much overhead)
+
+Also consider:
+
+each thread keeps its own best-so-far and you merge periodically
+
+or use an atomic for “global best” if you do branch-and-bound
+
+8) Heuristics for ordering (helps pruning a ton)
+Even with branch-and-bound, the order you explore matters a lot.
+Good heuristics:
+
+Order slots by “impact variance” first (weapon already fixed; then amulet/ring/body depending on mode)
+
+In each slot, try candidates in descending “proxy score”
+
+proxy score could be expected\_max\_hit\_gain + expected\_accuracy\_gain
+
+computed cheaply from rolls
+
+Finding a good solution early tightens the bound and prunes more.
+
+9) Handling set bonuses and nonlocal constraints
+Set bonuses make this “not purely separable” by slot.
+Two workable tactics:
+
+Treat sets as “virtual items”
+
+Define a “Void Ranged set” as a single choice that occupies multiple slots.
+
+Then the remaining slots are normal.
+
+This dramatically simplifies search and is common in optimisers.
+
+Two-phase search
+
+First decide “mode” / “macro choice”: set/no set, slayer helm vs salve, etc.
+
+Then search remaining slots normally.
+
+This also gives clean parallel boundaries (“run each macro mode independently”).
+
+10) What research bucket this sits in (so you can borrow techniques)
+You can view it as:
+
+constrained assignment / configuration optimisation with a nonlinear objective
+
+techniques:
+
+Pareto frontier pruning (multi-objective optimisation)
+
+branch-and-bound (exact search with admissible bounds)
+
+beam search (heuristic best-first)
+
+meet-in-the-middle (combinatorial optimisation)
+
+MIP/ILP is possible but awkward because DPS is nonlinear + floors (you’d end up approximating)
+
+In practice: Pareto pruning + weapon-first + beam search + caching + rayon is the MVP sweet spot.
+
+A concrete MVP performance plan (what I’d do next)
+
+Instrument evaluate() and make it fast enough to do ~1–10M eval/s on your machine.
+
+Implement dominance/Pareto pruning per slot (target/style-aware).
+
+Weapon-first + beam search (K = 1k–10k).
+
+Cache eval results by aggregated stats.
+
+Parallelise over weapons with Rayon.
+
+If you still need more: add a branch-and-bound upper bound (or meet-in-the-middle).
+
+If you share which constraints you care about in v1 (budget? prayer flicking? defence/DTPS? just max DPS?), I can suggest the minimal stat vector for Pareto pruning and a good admissible upper bound for branch-and-bound.
+
+---
